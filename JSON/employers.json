@@ -1,0 +1,364 @@
+[
+  {
+    "id": "emp-001",
+    "companyInfo": {
+      "name": "TechSolutions Belgium",
+      "sector": "IT",
+      "size": "PME",
+      "description": "Société spécialisée dans le développement d'applications web et mobiles pour les entreprises.",
+      "website": "www.techsolutions.be"
+    },
+    "address": {
+      "street": "Avenue Louise 149",
+      "city": "Bruxelles",
+      "postalCode": "1050",
+      "country": "Belgique"
+    },
+    "contact": {
+      "email": "rh@techsolutions.be",
+      "phone": "02/555-0001",
+      "contactPerson": "Sophie Moreau"
+    },
+    "jobOffers": {
+      "activePositions": [
+        "Développeur Full Stack",
+        "Chef de Projet IT",
+        "UX/UI Designer"
+      ],
+      "contractTypes": ["CDI", "Freelance"],
+      "experienceLevels": ["Junior", "Intermédiaire", "Senior"]
+    },
+    "benefits": [
+      "Télétravail",
+      "Formation continue",
+      "Assurance groupe",
+      "Voiture de société"
+    ],
+    "createdAt": "2026-01-15"
+  },
+  {
+    "id": "emp-002",
+    "companyInfo": {
+      "name": "LogiFlow International",
+      "sector": "Logistique",
+      "size": "Grande entreprise",
+      "description": "Leader européen en solutions logistiques et transport international.",
+      "website": "www.logiflow.eu"
+    },
+    "address": {
+      "street": "Industriezone 45",
+      "city": "Anvers",
+      "postalCode": "2000",
+      "country": "Belgique"
+    },
+    "contact": {
+      "email": "jobs@logiflow.eu",
+      "phone": "03/555-0002",
+      "contactPerson": "Marc Van Der Berg"
+    },
+    "jobOffers": {
+      "activePositions": [
+        "Responsable Logistique",
+        "Chauffeur Poids Lourds",
+        "Magasinier"
+      ],
+      "contractTypes": ["CDI", "Intérim"],
+      "experienceLevels": ["Junior", "Intermédiaire", "Senior", "Expert"]
+    },
+    "benefits": [
+      "Prime de performance",
+      "Mutuelle",
+      "13ème mois",
+      "Formation permis"
+    ],
+    "createdAt": "2026-01-18"
+  },
+  {
+    "id": "emp-003",
+    "companyInfo": {
+      "name": "BankCorp Belgium",
+      "sector": "Finance",
+      "size": "Grande entreprise",
+      "description": "Institution financière de référence offrant services bancaires et d'assurance.",
+      "website": "www.bankcorp.be"
+    },
+    "address": {
+      "street": "Place Eugène Flagey 18",
+      "city": "Bruxelles",
+      "postalCode": "1050",
+      "country": "Belgique"
+    },
+    "contact": {
+      "email": "recruitment@bankcorp.be",
+      "phone": "02/555-0003",
+      "contactPerson": "Jean-Pierre Dumont"
+    },
+    "jobOffers": {
+      "activePositions": [
+        "Conseiller Clientèle",
+        "Analyste Financier",
+        "Gestionnaire Crédit"
+      ],
+      "contractTypes": ["CDI"],
+      "experienceLevels": ["Intermédiaire", "Senior", "Expert"]
+    },
+    "benefits": [
+      "Bonus annuel",
+      "Plan pension",
+      "Assurance soins de santé",
+      "Congés flexibles"
+    ],
+    "createdAt": "2026-01-20"
+  },
+  {
+    "id": "emp-004",
+    "companyInfo": {
+      "name": "HealthCare Plus",
+      "sector": "Santé",
+      "size": "PME",
+      "description": "Réseau de centres de soins spécialisés en gériatrie et soins à domicile.",
+      "website": "www.healthcareplus.be"
+    },
+    "address": {
+      "street": "Rue des Hospitaliers 67",
+      "city": "Liège",
+      "postalCode": "4000",
+      "country": "Belgique"
+    },
+    "contact": {
+      "email": "hr@healthcareplus.be",
+      "phone": "04/555-0004",
+      "contactPerson": "Dr. Marie Vandenberghe"
+    },
+    "jobOffers": {
+      "activePositions": [
+        "Infirmier/ère",
+        "Aide-soignant(e)",
+        "Kinésithérapeute"
+      ],
+      "contractTypes": ["CDI", "Intérim", "Temps partiel"],
+      "experienceLevels": ["Junior", "Intermédiaire", "Senior"]
+    },
+    "benefits": [
+      "Horaires flexibles",
+      "Formation médicale continue",
+      "Prime de nuit",
+      "Mutuelle"
+    ],
+    "createdAt": "2026-01-22"
+  },
+  {
+    "id": "emp-005",
+    "companyInfo": {
+      "name": "Green Energy Solutions",
+      "sector": "Énergies Renouvelables",
+      "size": "Startup",
+      "description": "Entreprise innovante spécialisée dans les solutions d'énergie solaire et éolienne.",
+      "website": "www.greenenergy.be"
+    },
+    "address": {
+      "street": "Parc Scientifique 12",
+      "city": "Louvain-la-Neuve",
+      "postalCode": "1348",
+      "country": "Belgique"
+    },
+    "contact": {
+      "email": "careers@greenenergy.be",
+      "phone": "010/555-0005",
+      "contactPerson": "Thomas Jacobs"
+    },
+    "jobOffers": {
+      "activePositions": [
+        "Ingénieur Énergies Renouvelables",
+        "Technicien Installation",
+        "Commercial B2B"
+      ],
+      "contractTypes": ["CDI", "Stage"],
+      "experienceLevels": ["Junior", "Intermédiaire"]
+    },
+    "benefits": [
+      "Stock options",
+      "Télétravail hybride",
+      "Vélo de société",
+      "Formation technique"
+    ],
+    "createdAt": "2026-01-25"
+  },
+  {
+    "id": "emp-006",
+    "companyInfo": {
+      "name": "Resto Excellence",
+      "sector": "Restauration",
+      "size": "Chaîne",
+      "description": "Chaîne de restaurants gastronomiques présente dans toute la Belgique.",
+      "website": "www.resto-excellence.be"
+    },
+    "address": {
+      "street": "Grand Place 4",
+      "city": "Bruges",
+      "postalCode": "8000",
+      "country": "Belgique"
+    },
+    "contact": {
+      "email": "recrutement@resto-excellence.be",
+      "phone": "050/555-0006",
+      "contactPerson": "Chef Laurent Delacroix"
+    },
+    "jobOffers": {
+      "activePositions": ["Cuisinier", "Serveur", "Manager Restaurant"],
+      "contractTypes": ["CDI", "Intérim", "Saisonnier"],
+      "experienceLevels": ["Junior", "Intermédiaire", "Senior"]
+    },
+    "benefits": [
+      "Repas gratuits",
+      "Primes de service",
+      "Formation culinaire",
+      "Évolution rapide"
+    ],
+    "createdAt": "2026-01-28"
+  },
+  {
+    "id": "emp-007",
+    "companyInfo": {
+      "name": "Manufacturing Pro",
+      "sector": "Industrie",
+      "size": "Grande entreprise",
+      "description": "Fabricant de composants automobiles et équipements industriels.",
+      "website": "www.manufacturingpro.be"
+    },
+    "address": {
+      "street": "Zone Industrielle 89",
+      "city": "Charleroi",
+      "postalCode": "6000",
+      "country": "Belgique"
+    },
+    "contact": {
+      "email": "jobs@manufacturingpro.be",
+      "phone": "071/555-0007",
+      "contactPerson": "Ingénieur Paul Stevens"
+    },
+    "jobOffers": {
+      "activePositions": [
+        "Opérateur Machine",
+        "Technicien Maintenance",
+        "Ingénieur Qualité"
+      ],
+      "contractTypes": ["CDI", "Intérim"],
+      "experienceLevels": ["Junior", "Intermédiaire", "Senior", "Expert"]
+    },
+    "benefits": [
+      "Prime de production",
+      "Assurance groupe",
+      "Formation technique",
+      "Plan carrière"
+    ],
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "emp-008",
+    "companyInfo": {
+      "name": "Digital Marketing Hub",
+      "sector": "Marketing",
+      "size": "PME",
+      "description": "Agence spécialisée en marketing digital et stratégies de communication.",
+      "website": "www.digitalmarketinghub.be"
+    },
+    "address": {
+      "street": "Rue Neuve 156",
+      "city": "Bruxelles",
+      "postalCode": "1000",
+      "country": "Belgique"
+    },
+    "contact": {
+      "email": "talent@digitalmarketinghub.be",
+      "phone": "02/555-0008",
+      "contactPerson": "Emma Rodriguez"
+    },
+    "jobOffers": {
+      "activePositions": [
+        "Chef de Projet Digital",
+        "Spécialiste SEO",
+        "Community Manager"
+      ],
+      "contractTypes": ["CDI", "Freelance"],
+      "experienceLevels": ["Junior", "Intermédiaire", "Senior"]
+    },
+    "benefits": [
+      "Environnement créatif",
+      "Télétravail",
+      "Formation Google/Meta",
+      "Projets variés"
+    ],
+    "createdAt": "2026-02-05"
+  },
+  {
+    "id": "emp-009",
+    "companyInfo": {
+      "name": "Construction Elite",
+      "sector": "Construction",
+      "size": "PME",
+      "description": "Entreprise de construction spécialisée en bâtiments résidentiels et commerciaux.",
+      "website": "www.construction-elite.be"
+    },
+    "address": {
+      "street": "Avenue des Artisans 33",
+      "city": "Namur",
+      "postalCode": "5000",
+      "country": "Belgique"
+    },
+    "contact": {
+      "email": "rh@construction-elite.be",
+      "phone": "081/555-0009",
+      "contactPerson": "Contremaître Michel Claes"
+    },
+    "jobOffers": {
+      "activePositions": ["Maçon", "Électricien", "Chef de Chantier"],
+      "contractTypes": ["CDI", "Intérim"],
+      "experienceLevels": ["Junior", "Intermédiaire", "Expert"]
+    },
+    "benefits": [
+      "Véhicule de chantier",
+      "Outillage fourni",
+      "Prime de rendement",
+      "Formation sécurité"
+    ],
+    "createdAt": "2026-02-08"
+  },
+  {
+    "id": "emp-010",
+    "companyInfo": {
+      "name": "Consulting Partners",
+      "sector": "Conseil",
+      "size": "PME",
+      "description": "Cabinet de conseil en management et transformation digitale des entreprises.",
+      "website": "www.consulting-partners.be"
+    },
+    "address": {
+      "street": "Boulevard du Souverain 280",
+      "city": "Uccle",
+      "postalCode": "1160",
+      "country": "Belgique"
+    },
+    "contact": {
+      "email": "careers@consulting-partners.be",
+      "phone": "02/555-0010",
+      "contactPerson": "Partner Senior David Lambert"
+    },
+    "jobOffers": {
+      "activePositions": [
+        "Consultant Junior",
+        "Business Analyst",
+        "Project Manager"
+      ],
+      "contractTypes": ["CDI", "Freelance"],
+      "experienceLevels": ["Junior", "Intermédiaire", "Senior", "Expert"]
+    },
+    "benefits": [
+      "Voiture de société",
+      "Ordinateur portable",
+      "Budget formation",
+      "Projets internationaux"
+    ],
+    "createdAt": "2026-02-10"
+  }
+]

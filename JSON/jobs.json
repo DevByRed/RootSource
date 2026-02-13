@@ -1,0 +1,334 @@
+[
+  {
+    "id": "job-001",
+    "title": "Développeur Angular",
+    "description": "Développement d'applications web modernes avec Angular, TypeScript et HTML. Intégration API REST et gestion de projets client.",
+    "employerId": "emp-001",
+    "location": {
+      "city": "Bruxelles"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 3000,
+        "max": 4500
+      }
+    },
+    "requirements": ["Angular", "TypeScript", "HTML", "CSS"],
+    "experienceLevel": "Junior",
+    "status": "OPEN",
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "job-002",
+    "title": "Responsable Logistique",
+    "description": "Gestion des flux logistiques internationaux, optimisation des coûts transport et coordination des équipes warehouse.",
+    "employerId": "emp-002",
+    "location": {
+      "city": "Anvers"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 4500,
+        "max": 6500
+      }
+    },
+    "requirements": ["Logistique", "SAP", "Management", "Anglais"],
+    "experienceLevel": "Senior",
+    "status": "OPEN",
+    "createdAt": "2026-02-02"
+  },
+  {
+    "id": "job-003",
+    "title": "Développeur Full Stack React/Node.js",
+    "description": "Développement d'applications web complètes avec React frontend et Node.js backend. Déploiement Docker en environnement cloud.",
+    "employerId": "emp-001",
+    "location": {
+      "city": "Bruxelles"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 3800,
+        "max": 5200
+      }
+    },
+    "requirements": ["React", "Node.js", "Docker", "Python"],
+    "experienceLevel": "Intermédiaire",
+    "status": "OPEN",
+    "createdAt": "2026-02-03"
+  },
+  {
+    "id": "job-004",
+    "title": "Spécialiste Marketing Digital",
+    "description": "Gestion complète des campagnes marketing digital : SEO, Google Analytics, réseaux sociaux et stratégies e-commerce.",
+    "employerId": "emp-008",
+    "location": {
+      "city": "Bruxelles"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 2800,
+        "max": 3800
+      }
+    },
+    "requirements": [
+      "SEO",
+      "Google Analytics",
+      "Social Media",
+      "Marketing Digital"
+    ],
+    "experienceLevel": "Junior",
+    "status": "OPEN",
+    "createdAt": "2026-02-04"
+  },
+  {
+    "id": "job-005",
+    "title": "Architecte Java Senior",
+    "description": "Conception et développement d'architectures microservices avec Spring Boot, déploiement AWS et Kubernetes.",
+    "employerId": "emp-001",
+    "location": {
+      "city": "Bruxelles"
+    },
+    "contract": {
+      "type": "Freelance",
+      "salaryRange": {
+        "min": 600,
+        "max": 800
+      }
+    },
+    "requirements": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "AWS",
+      "Kubernetes"
+    ],
+    "experienceLevel": "Expert",
+    "status": "OPEN",
+    "createdAt": "2026-02-05"
+  },
+  {
+    "id": "job-006",
+    "title": "Comptable Senior",
+    "description": "Gestion comptabilité générale, élaboration des comptes annuels, audit interne et maîtrise SAP Finance.",
+    "employerId": "emp-003",
+    "location": {
+      "city": "Bruxelles"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 4000,
+        "max": 5500
+      }
+    },
+    "requirements": ["Comptabilité", "Excel", "SAP Finance", "Audit"],
+    "experienceLevel": "Senior",
+    "status": "OPEN",
+    "createdAt": "2026-02-06"
+  },
+  {
+    "id": "job-007",
+    "title": "Commercial B2B",
+    "description": "Développement portefeuille client entreprises, négociation commerciale et gestion CRM. Secteur immobilier et vente.",
+    "employerId": "emp-010",
+    "location": {
+      "city": "Uccle"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 3200,
+        "max": 4800
+      }
+    },
+    "requirements": ["Vente", "CRM", "Négociation", "B2B"],
+    "experienceLevel": "Intermédiaire",
+    "status": "OPEN",
+    "createdAt": "2026-02-07"
+  },
+  {
+    "id": "job-008",
+    "title": "Designer UX/UI",
+    "description": "Création d'interfaces utilisateur modernes avec Figma, design graphique et Adobe Creative Suite pour projets web/mobile.",
+    "employerId": "emp-008",
+    "location": {
+      "city": "Bruxelles"
+    },
+    "contract": {
+      "type": "Freelance",
+      "salaryRange": {
+        "min": 400,
+        "max": 600
+      }
+    },
+    "requirements": [
+      "Figma",
+      "Adobe Creative Suite",
+      "UX/UI",
+      "Design Graphique"
+    ],
+    "experienceLevel": "Junior",
+    "status": "OPEN",
+    "createdAt": "2026-02-08"
+  },
+  {
+    "id": "job-009",
+    "title": "Technicien Maintenance Industrielle",
+    "description": "Maintenance préventive et curative des équipements industriels, électricité industrielle et systèmes d'automation.",
+    "employerId": "emp-007",
+    "location": {
+      "city": "Charleroi"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 3500,
+        "max": 4500
+      }
+    },
+    "requirements": ["Maintenance", "Électricité", "Automation", "Mécanique"],
+    "experienceLevel": "Expert",
+    "status": "OPEN",
+    "createdAt": "2026-02-09"
+  },
+  {
+    "id": "job-010",
+    "title": "Responsable Ressources Humaines",
+    "description": "Gestion complète RH : recrutement, formation, SIRH et développement des talents dans un environnement de conseil.",
+    "employerId": "emp-010",
+    "location": {
+      "city": "Uccle"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 4200,
+        "max": 5800
+      }
+    },
+    "requirements": ["Ressources Humaines", "Recrutement", "SIRH", "Formation"],
+    "experienceLevel": "Intermédiaire",
+    "status": "OPEN",
+    "createdAt": "2026-02-10"
+  },
+  {
+    "id": "job-011",
+    "title": "Chef de Projet Agile",
+    "description": "Pilotage projets IT en méthode Agile/Scrum, gestion équipes développement et coordination avec les parties prenantes.",
+    "employerId": "emp-001",
+    "location": {
+      "city": "Bruxelles"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 5000,
+        "max": 6500
+      }
+    },
+    "requirements": [
+      "Gestion de Projet",
+      "Agile",
+      "Scrum",
+      "JIRA",
+      "Leadership"
+    ],
+    "experienceLevel": "Senior",
+    "status": "OPEN",
+    "createdAt": "2026-02-11"
+  },
+  {
+    "id": "job-012",
+    "title": "Infirmier/ère en Gériatrie",
+    "description": "Soins spécialisés en gériatrie, suivi patients âgés et coordination avec équipes médicales. Possibilité urgences.",
+    "employerId": "emp-004",
+    "location": {
+      "city": "Liège"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 2800,
+        "max": 3500
+      }
+    },
+    "requirements": ["Soins", "Gériatrie", "Urgences", "Diplôme infirmier"],
+    "experienceLevel": "Junior",
+    "status": "OPEN",
+    "createdAt": "2026-02-12"
+  },
+  {
+    "id": "job-013",
+    "title": "Chef de Cuisine",
+    "description": "Direction cuisine restaurant gastronomique, création menus, respect normes HACCP et management équipe culinaire.",
+    "employerId": "emp-006",
+    "location": {
+      "city": "Bruges"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 4000,
+        "max": 5200
+      }
+    },
+    "requirements": ["Cuisine", "HACCP", "Management", "Menu Development"],
+    "experienceLevel": "Expert",
+    "status": "OPEN",
+    "createdAt": "2026-02-13"
+  },
+  {
+    "id": "job-014",
+    "title": "Chargé de Communication",
+    "description": "Gestion communication externe, relations publiques, organisation événements et animation réseaux sociaux corporate.",
+    "employerId": "emp-008",
+    "location": {
+      "city": "Bruxelles"
+    },
+    "contract": {
+      "type": "Freelance",
+      "salaryRange": {
+        "min": 350,
+        "max": 500
+      }
+    },
+    "requirements": [
+      "Communication",
+      "Relations Publiques",
+      "Événementiel",
+      "Réseaux Sociaux"
+    ],
+    "experienceLevel": "Intermédiaire",
+    "status": "OPEN",
+    "createdAt": "2026-02-14"
+  },
+  {
+    "id": "job-015",
+    "title": "Électricien Industriel",
+    "description": "Installation et maintenance systèmes électriques industriels, domotique et certifications électriques.",
+    "employerId": "emp-009",
+    "location": {
+      "city": "Namur"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 3200,
+        "max": 4200
+      }
+    },
+    "requirements": [
+      "Électricité",
+      "Domotique",
+      "Maintenance",
+      "Certification"
+    ],
+    "experienceLevel": "Senior",
+    "status": "OPEN",
+    "createdAt": "2026-02-13"
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "id": "cand-001",
+    "personalInfo": {
+      "firstName": "Lucas",
+      "lastName": "Martin",
+      "email": "lucas.martin@email.com",
+      "phone": "0470000001",
+      "dateOfBirth": "1998-05-10"
+    },
+    "address": {
+      "street": "Rue de Bruxelles 10",
+      "city": "Bruxelles",
+      "postalCode": "1000",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Junior",
+      "skills": ["Angular", "TypeScript", "HTML"],
+      "availability": "Immediate",
+      "preferredContractTypes": ["CDI", "Freelance"],
+      "preferredSectors": ["IT"]
+    },
+    "cvUrl": "assets/cv/lucas.pdf",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "id": "cand-002",
+    "personalInfo": {
+      "firstName": "Sarah",
+      "lastName": "Dupont",
+      "email": "sarah.dupont@email.com",
+      "phone": "0470000002",
+      "dateOfBirth": "1985-03-22"
+    },
+    "address": {
+      "street": "Avenue des Ardennes 45",
+      "city": "Liège",
+      "postalCode": "4000",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Senior",
+      "skills": ["Logistique", "Warehouse", "SAP", "Management"],
+      "availability": "2 semaines",
+      "preferredContractTypes": ["CDI", "Intérim"],
+      "preferredSectors": ["Logistique", "Transport"]
+    },
+    "cvUrl": "assets/cv/sarah.pdf",
+    "createdAt": "2026-01-05"
+  },
+  {
+    "id": "cand-003",
+    "personalInfo": {
+      "firstName": "Pierre",
+      "lastName": "Lefort",
+      "email": "pierre.lefort@email.com",
+      "phone": "0470000003",
+      "dateOfBirth": "1992-07-15"
+    },
+    "address": {
+      "street": "Rue Saint-Georges 28",
+      "city": "Charleroi",
+      "postalCode": "6000",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Intermédiaire",
+      "skills": ["React", "Node.js", "Python", "Docker"],
+      "availability": "1 mois",
+      "preferredContractTypes": ["CDI"],
+      "preferredSectors": ["IT", "Fintech"]
+    },
+    "cvUrl": "assets/cv/pierre.pdf",
+    "createdAt": "2026-01-08"
+  },
+  {
+    "id": "cand-004",
+    "personalInfo": {
+      "firstName": "Marie",
+      "lastName": "Vanderstraeten",
+      "email": "marie.vanderstraeten@email.com",
+      "phone": "0470000004",
+      "dateOfBirth": "1995-11-03"
+    },
+    "address": {
+      "street": "Steenweg 12",
+      "city": "Gand",
+      "postalCode": "9000",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Junior",
+      "skills": [
+        "Marketing Digital",
+        "SEO",
+        "Google Analytics",
+        "Social Media"
+      ],
+      "availability": "Immediate",
+      "preferredContractTypes": ["CDI", "Stage"],
+      "preferredSectors": ["Marketing", "E-commerce"]
+    },
+    "cvUrl": "assets/cv/marie.pdf",
+    "createdAt": "2026-01-10"
+  },
+  {
+    "id": "cand-005",
+    "personalInfo": {
+      "firstName": "Jean",
+      "lastName": "Delacroix",
+      "email": "jean.delacroix@email.com",
+      "phone": "0470000005",
+      "dateOfBirth": "1988-12-18"
+    },
+    "address": {
+      "street": "Boulevard Leopold II 89",
+      "city": "Anvers",
+      "postalCode": "2000",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Expert",
+      "skills": ["Java", "Spring Boot", "Microservices", "AWS", "Kubernetes"],
+      "availability": "3 mois",
+      "preferredContractTypes": ["Freelance", "CDI"],
+      "preferredSectors": ["IT", "Banking", "Insurance"]
+    },
+    "cvUrl": "assets/cv/jean.pdf",
+    "createdAt": "2026-01-12"
+  },
+  {
+    "id": "cand-006",
+    "personalInfo": {
+      "firstName": "Sophie",
+      "lastName": "Moreau",
+      "email": "sophie.moreau@email.com",
+      "phone": "0470000006",
+      "dateOfBirth": "1990-02-28"
+    },
+    "address": {
+      "street": "Rue de la Paix 67",
+      "city": "Mons",
+      "postalCode": "7000",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Senior",
+      "skills": ["Comptabilité", "Excel", "SAP Finance", "Audit"],
+      "availability": "1 semaine",
+      "preferredContractTypes": ["CDI"],
+      "preferredSectors": ["Finance", "Comptabilité"]
+    },
+    "cvUrl": "assets/cv/sophie.pdf",
+    "createdAt": "2026-01-15"
+  },
+  {
+    "id": "cand-007",
+    "personalInfo": {
+      "firstName": "Thomas",
+      "lastName": "Janssens",
+      "email": "thomas.janssens@email.com",
+      "phone": "0470000007",
+      "dateOfBirth": "1993-09-05"
+    },
+    "address": {
+      "street": "Kerkstraat 33",
+      "city": "Louvain",
+      "postalCode": "3000",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Intermédiaire",
+      "skills": ["Vente", "CRM", "Négociation", "B2B"],
+      "availability": "2 semaines",
+      "preferredContractTypes": ["CDI", "Commission"],
+      "preferredSectors": ["Vente", "Immobilier"]
+    },
+    "cvUrl": "assets/cv/thomas.pdf",
+    "createdAt": "2026-01-18"
+  },
+  {
+    "id": "cand-008",
+    "personalInfo": {
+      "firstName": "Lisa",
+      "lastName": "Peeters",
+      "email": "lisa.peeters@email.com",
+      "phone": "0470000008",
+      "dateOfBirth": "1996-06-12"
+    },
+    "address": {
+      "street": "Grote Markt 5",
+      "city": "Bruges",
+      "postalCode": "8000",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Junior",
+      "skills": ["Design Graphique", "Adobe Creative Suite", "UX/UI", "Figma"],
+      "availability": "Immediate",
+      "preferredContractTypes": ["CDI", "Freelance"],
+      "preferredSectors": ["Design", "Marketing", "IT"]
+    },
+    "cvUrl": "assets/cv/lisa.pdf",
+    "createdAt": "2026-01-20"
+  },
+  {
+    "id": "cand-009",
+    "personalInfo": {
+      "firstName": "Marc",
+      "lastName": "Van den Berg",
+      "email": "marc.vandenberg@email.com",
+      "phone": "0470000009",
+      "dateOfBirth": "1987-04-30"
+    },
+    "address": {
+      "street": "Industrielaan 78",
+      "city": "Hasselt",
+      "postalCode": "3500",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Expert",
+      "skills": ["Mécanique", "Maintenance", "Électricité", "Automation"],
+      "availability": "1 mois",
+      "preferredContractTypes": ["CDI", "Intérim"],
+      "preferredSectors": ["Industrie", "Manufacturing"]
+    },
+    "cvUrl": "assets/cv/marc.pdf",
+    "createdAt": "2026-01-22"
+  },
+  {
+    "id": "cand-010",
+    "personalInfo": {
+      "firstName": "Emma",
+      "lastName": "Rousseau",
+      "email": "emma.rousseau@email.com",
+      "phone": "0470000010",
+      "dateOfBirth": "1994-08-25"
+    },
+    "address": {
+      "street": "Avenue Louise 156",
+      "city": "Bruxelles",
+      "postalCode": "1050",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Intermédiaire",
+      "skills": ["Ressources Humaines", "Recrutement", "SIRH", "Formation"],
+      "availability": "3 semaines",
+      "preferredContractTypes": ["CDI"],
+      "preferredSectors": ["RH", "Conseil"]
+    },
+    "cvUrl": "assets/cv/emma.pdf",
+    "createdAt": "2026-01-25"
+  },
+  {
+    "id": "cand-011",
+    "personalInfo": {
+      "firstName": "David",
+      "lastName": "Lambert",
+      "email": "david.lambert@email.com",
+      "phone": "0470000011",
+      "dateOfBirth": "1991-01-14"
+    },
+    "address": {
+      "street": "Rue du Commerce 23",
+      "city": "Namur",
+      "postalCode": "5000",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Senior",
+      "skills": ["Gestion de Projet", "Agile", "Scrum", "JIRA", "Leadership"],
+      "availability": "6 semaines",
+      "preferredContractTypes": ["CDI", "Freelance"],
+      "preferredSectors": ["IT", "Conseil", "Manufacturing"]
+    },
+    "cvUrl": "assets/cv/david.pdf",
+    "createdAt": "2026-01-28"
+  },
+  {
+    "id": "cand-012",
+    "personalInfo": {
+      "firstName": "Julie",
+      "lastName": "Claes",
+      "email": "julie.claes@email.com",
+      "phone": "0470000012",
+      "dateOfBirth": "1997-10-07"
+    },
+    "address": {
+      "street": "Dorpstraat 89",
+      "city": "Turnhout",
+      "postalCode": "2300",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Junior",
+      "skills": ["Infirmière", "Soins", "Gériatrie", "Urgences"],
+      "availability": "Immediate",
+      "preferredContractTypes": ["CDI", "Intérim"],
+      "preferredSectors": ["Santé", "Soins"]
+    },
+    "cvUrl": "assets/cv/julie.pdf",
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "cand-013",
+    "personalInfo": {
+      "firstName": "Kevin",
+      "lastName": "Durand",
+      "email": "kevin.durand@email.com",
+      "phone": "0470000013",
+      "dateOfBirth": "1989-03-16"
+    },
+    "address": {
+      "street": "Place Saint-Lambert 44",
+      "city": "Liège",
+      "postalCode": "4000",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Expert",
+      "skills": ["Cuisine", "Management", "HACCP", "Menu Development"],
+      "availability": "2 semaines",
+      "preferredContractTypes": ["CDI"],
+      "preferredSectors": ["Restauration", "Hôtellerie"]
+    },
+    "cvUrl": "assets/cv/kevin.pdf",
+    "createdAt": "2026-02-05"
+  },
+  {
+    "id": "cand-014",
+    "personalInfo": {
+      "firstName": "Céline",
+      "lastName": "Vandenberghe",
+      "email": "celine.vandenberghe@email.com",
+      "phone": "0470000014",
+      "dateOfBirth": "1992-12-02"
+    },
+    "address": {
+      "street": "Chaussée de Waterloo 77",
+      "city": "Uccle",
+      "postalCode": "1180",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Intermédiaire",
+      "skills": [
+        "Communication",
+        "Relations Publiques",
+        "Événementiel",
+        "Réseaux Sociaux"
+      ],
+      "availability": "4 semaines",
+      "preferredContractTypes": ["CDI", "Freelance"],
+      "preferredSectors": ["Communication", "Événementiel", "Marketing"]
+    },
+    "cvUrl": "assets/cv/celine.pdf",
+    "createdAt": "2026-02-08"
+  },
+  {
+    "id": "cand-015",
+    "personalInfo": {
+      "firstName": "Maxime",
+      "lastName": "Simon",
+      "email": "maxime.simon@email.com",
+      "phone": "0470000015",
+      "dateOfBirth": "1986-05-21"
+    },
+    "address": {
+      "street": "Rue de la Station 66",
+      "city": "Verviers",
+      "postalCode": "4800",
+      "country": "Belgique"
+    },
+    "professionalProfile": {
+      "experienceLevel": "Senior",
+      "skills": ["Électricien", "Domotique", "Maintenance", "Certification"],
+      "availability": "1 semaine",
+      "preferredContractTypes": ["CDI", "Intérim"],
+      "preferredSectors": ["Électricité", "Construction", "Maintenance"]
+    },
+    "cvUrl": "assets/cv/maxime.pdf",
+    "createdAt": "2026-02-10"
+  }
+]
