@@ -1,0 +1,831 @@
+[
+  {
+    "id": "cv-001",
+    "candidateId": "cand-101",
+    "summary": "Responsable de salle passionnée avec plus de 8 ans d'expérience dans l'hôtellerie et la restauration haut de gamme. Expertise en management d'équipe, formation du personnel et optimisation de l'expérience client.",
+    "skills": [
+      "Service client",
+      "Gestion d'équipe",
+      "Management",
+      "Vente",
+      "Formation"
+    ],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Anglais", "level": "FLUENT" },
+      { "language": "Espagnol", "level": "INTERMEDIATE" }
+    ],
+    "hobbies": ["Œnologie", "Cuisine gastronomique", "Voyages"],
+    "experiences": [
+      {
+        "id": "exp-001-1",
+        "company": "Le Grand Hôtel Paris",
+        "title": "Responsable de salle",
+        "description": "Management d'une équipe de 15 personnes, supervision du service en salle, formation des nouveaux collaborateurs",
+        "startDate": "2020-03-01",
+        "location": "Paris"
+      },
+      {
+        "id": "exp-001-2",
+        "company": "Restaurant La Table du Chef",
+        "title": "Chef de rang",
+        "description": "Service en salle, conseil clientèle, gestion des réservations VIP",
+        "startDate": "2017-06-01",
+        "endDate": "2020-02-28",
+        "location": "Lyon"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-001-1",
+        "institution": "École Hôtelière de Lyon",
+        "degree": "BTS Hôtellerie-Restauration",
+        "fieldOfStudy": "Management hôtelier",
+        "startDate": "2014-09-01",
+        "endDate": "2016-06-30"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-001-1",
+        "name": "Sommelier Niveau 1",
+        "issuingOrganization": "WSET",
+        "issueDate": "2019-05-15"
+      }
+    ],
+    "createdAt": "2025-12-10T09:30:00Z",
+    "updatedAt": "2026-01-15T14:20:00Z"
+  },
+  {
+    "id": "cv-002",
+    "candidateId": "cand-102",
+    "summary": "Jeune cuisinier motivé et dynamique, diplômé en arts culinaires avec une solide formation en cuisine française traditionnelle et moderne. Passionné par la gastronomie et la créativité culinaire.",
+    "skills": [
+      "Cuisine",
+      "Préparation culinaire",
+      "Hygiène HACCP",
+      "Gestion des stocks"
+    ],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Anglais", "level": "INTERMEDIATE" }
+    ],
+    "hobbies": ["Pâtisserie", "Food photography", "Cuisine du monde"],
+    "experiences": [
+      {
+        "id": "exp-002-1",
+        "company": "Brasserie Le Comptoir",
+        "title": "Commis de cuisine",
+        "description": "Préparation des entrées et desserts, mise en place, respect des normes HACCP",
+        "startDate": "2024-09-01",
+        "location": "Paris"
+      },
+      {
+        "id": "exp-002-2",
+        "company": "Restaurant L'Ardoise",
+        "title": "Apprenti cuisinier",
+        "description": "Apprentissage des techniques culinaires de base, aide aux chefs, entretien de la cuisine",
+        "startDate": "2022-09-01",
+        "endDate": "2024-08-31",
+        "location": "Paris"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-002-1",
+        "institution": "CFA de la Gastronomie",
+        "degree": "CAP Cuisine",
+        "fieldOfStudy": "Arts culinaires",
+        "startDate": "2021-09-01",
+        "endDate": "2023-06-30"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-002-1",
+        "name": "Certificat HACCP",
+        "issuingOrganization": "Chambre des Métiers",
+        "issueDate": "2023-10-20"
+      }
+    ],
+    "createdAt": "2026-02-01T14:20:00Z"
+  },
+  {
+    "id": "cv-003",
+    "candidateId": "cand-103",
+    "summary": "Jeune diplômée dynamique et organisée, à la recherche d'un poste d'assistante administrative. Excellentes compétences en communication et maîtrise des outils bureautiques.",
+    "skills": ["Accueil", "Secrétariat", "Téléphone", "Word", "Excel"],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Anglais", "level": "INTERMEDIATE" }
+    ],
+    "hobbies": ["Lecture", "Yoga", "Bénévolat associatif"],
+    "experiences": [
+      {
+        "id": "exp-003-1",
+        "company": "Cabinet Médical Dr. Petit",
+        "title": "Secrétaire médicale (Stage)",
+        "description": "Accueil des patients, prise de rendez-vous, gestion du standard téléphonique, archivage des dossiers",
+        "startDate": "2025-03-01",
+        "endDate": "2025-08-31",
+        "location": "Toulouse"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-003-1",
+        "institution": "Lycée Professionnel Jean Jaurès",
+        "degree": "Bac Pro Gestion-Administration",
+        "fieldOfStudy": "Secrétariat",
+        "startDate": "2019-09-01",
+        "endDate": "2022-06-30"
+      }
+    ],
+    "createdAt": "2026-01-28T11:15:00Z"
+  },
+  {
+    "id": "cv-004",
+    "candidateId": "cand-104",
+    "summary": "Expert-comptable avec 12 ans d'expérience en cabinet et en entreprise. Spécialiste de la consolidation financière, de l'audit et de la fiscalité des entreprises. Reconnu pour ma rigueur et mon expertise technique.",
+    "skills": [
+      "Comptabilité",
+      "Gestion financière",
+      "Audit",
+      "Bilan",
+      "Fiscalité"
+    ],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Anglais", "level": "FLUENT" },
+      { "language": "Allemand", "level": "INTERMEDIATE" }
+    ],
+    "hobbies": ["Échecs", "Golf", "Lecture économique"],
+    "experiences": [
+      {
+        "id": "exp-004-1",
+        "company": "Deloitte France",
+        "title": "Directeur de mission",
+        "description": "Management d'équipes d'audit, supervision de missions de commissariat aux comptes, conseil en optimisation fiscale",
+        "startDate": "2018-01-01",
+        "location": "Paris"
+      },
+      {
+        "id": "exp-004-2",
+        "company": "Cabinet Martin & Associés",
+        "title": "Chef de mission",
+        "description": "Réalisation de missions d'audit et d'expertise comptable pour PME et ETI",
+        "startDate": "2014-09-01",
+        "endDate": "2017-12-31",
+        "location": "Paris"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-004-1",
+        "institution": "ESCP Business School",
+        "degree": "Master CCA",
+        "fieldOfStudy": "Comptabilité Contrôle Audit",
+        "startDate": "2011-09-01",
+        "endDate": "2013-06-30"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-004-1",
+        "name": "Diplôme d'Expert-Comptable (DEC)",
+        "issuingOrganization": "Ordre des Experts-Comptables",
+        "issueDate": "2016-11-10"
+      }
+    ],
+    "createdAt": "2026-01-15T10:00:00Z"
+  },
+  {
+    "id": "cv-005",
+    "candidateId": "cand-105",
+    "summary": "Conseillère de vente expérimentée avec 5 ans d'expérience en grande distribution et retail. Passionnée par la relation client et l'atteinte des objectifs commerciaux.",
+    "skills": [
+      "Vente",
+      "Conseil client",
+      "Merchandising",
+      "Caisse",
+      "Gestion de rayon"
+    ],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Anglais", "level": "INTERMEDIATE" }
+    ],
+    "hobbies": ["Mode", "Shopping", "Réseaux sociaux"],
+    "experiences": [
+      {
+        "id": "exp-005-1",
+        "company": "Zara Nantes",
+        "title": "Responsable adjointe de rayon",
+        "description": "Vente conseil, merchandising, supervision de 3 vendeuses, gestion des stocks",
+        "startDate": "2022-06-01",
+        "location": "Nantes"
+      },
+      {
+        "id": "exp-005-2",
+        "company": "Carrefour Lyon Confluence",
+        "title": "Vendeuse",
+        "description": "Accueil et conseil client, encaissement, mise en rayon",
+        "startDate": "2020-09-01",
+        "endDate": "2022-05-31",
+        "location": "Nantes"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-005-1",
+        "institution": "CIFA Commerce",
+        "degree": "BTS MCO (Management Commercial Opérationnel)",
+        "fieldOfStudy": "Commerce",
+        "startDate": "2018-09-01",
+        "endDate": "2020-06-30"
+      }
+    ],
+    "createdAt": "2026-01-08T15:45:00Z"
+  },
+  {
+    "id": "cv-006",
+    "candidateId": "cand-106",
+    "summary": "Conducteur routier expérimenté avec plus de 15 ans au volant. Permis CE, ADR et Fimo à jour. Excellent record de sécurité et ponctualité. Expérience nationale et internationale.",
+    "skills": [
+      "Conduite PL",
+      "Permis CE",
+      "Transport international",
+      "ADR",
+      "Chronotachygraphe"
+    ],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Anglais", "level": "INTERMEDIATE" }
+    ],
+    "hobbies": ["Mécanique", "Randonnée", "Voyages"],
+    "experiences": [
+      {
+        "id": "exp-006-1",
+        "company": "TransLog France",
+        "title": "Conducteur routier longue distance",
+        "description": "Transport de marchandises en France et Europe, respect des délais de livraison, entretien de premier niveau du véhicule",
+        "startDate": "2015-03-01",
+        "location": "Lyon"
+      },
+      {
+        "id": "exp-006-2",
+        "company": "DHL Supply Chain",
+        "title": "Conducteur SPL",
+        "description": "Livraisons régionales, chargement et déchargement, contrôle des marchandises",
+        "startDate": "2010-06-01",
+        "endDate": "2015-02-28",
+        "location": "Lyon"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-006-1",
+        "institution": "CFR Lyon",
+        "degree": "Permis CE + FIMO",
+        "fieldOfStudy": "Conduite routière",
+        "startDate": "2009-09-01",
+        "endDate": "2010-03-31"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-006-1",
+        "name": "FCO (Formation Continue Obligatoire)",
+        "issuingOrganization": "Ministère des Transports",
+        "issueDate": "2024-06-15",
+        "expirationDate": "2029-06-15"
+      },
+      {
+        "id": "cert-006-2",
+        "name": "ADR Base et Citernes",
+        "issuingOrganization": "Ministère des Transports",
+        "issueDate": "2023-09-10",
+        "expirationDate": "2028-09-10"
+      }
+    ],
+    "createdAt": "2025-12-20T08:30:00Z"
+  },
+  {
+    "id": "cv-007",
+    "candidateId": "cand-107",
+    "summary": "Infirmière diplômée d'État avec 6 ans d'expérience en milieu hospitalier, notamment aux urgences. Compétente, empathique et capable de travailler sous pression. Excellentes capacités d'organisation et de travail en équipe.",
+    "skills": [
+      "Soins infirmiers",
+      "Urgences",
+      "Gestion de patients",
+      "Protocoles médicaux"
+    ],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Anglais", "level": "ADVANCED" }
+    ],
+    "hobbies": ["Course à pied", "Secourisme bénévole", "Photographie"],
+    "experiences": [
+      {
+        "id": "exp-007-1",
+        "company": "CHU de Montpellier",
+        "title": "Infirmière - Service des Urgences",
+        "description": "Prise en charge des patients aux urgences, administration de soins, travail en collaboration avec les médecins",
+        "startDate": "2020-09-01",
+        "location": "Montpellier"
+      },
+      {
+        "id": "exp-007-2",
+        "company": "Clinique Saint-Michel",
+        "title": "Infirmière - Service de chirurgie",
+        "description": "Soins post-opératoires, surveillance des patients, préparation pré-opératoire",
+        "startDate": "2018-06-01",
+        "endDate": "2020-08-31",
+        "location": "Montpellier"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-007-1",
+        "institution": "IFSI de Montpellier",
+        "degree": "Diplôme d'État d'Infirmier",
+        "fieldOfStudy": "Sciences infirmières",
+        "startDate": "2015-09-01",
+        "endDate": "2018-06-30"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-007-1",
+        "name": "AFGSU Niveau 2",
+        "issuingOrganization": "CESU",
+        "issueDate": "2024-01-20",
+        "expirationDate": "2028-01-20"
+      }
+    ],
+    "createdAt": "2026-01-30T13:00:00Z"
+  },
+  {
+    "id": "cv-008",
+    "candidateId": "cand-108",
+    "summary": "Technicien de maintenance industrielle polyvalent avec 5 ans d'expérience en milieu industriel. Compétences en électricité, mécanique et automatisme. Capacité à diagnostiquer et résoudre rapidement les pannes.",
+    "skills": [
+      "Maintenance industrielle",
+      "Électricité",
+      "Mécanique",
+      "Automatisme",
+      "Dépannage"
+    ],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Anglais", "level": "INTERMEDIATE" }
+    ],
+    "hobbies": ["Bricolage", "Électronique", "Sports mécaniques"],
+    "experiences": [
+      {
+        "id": "exp-008-1",
+        "company": "AutoMéca Services",
+        "title": "Technicien de maintenance",
+        "description": "Maintenance préventive et curative sur lignes de production, dépannage électrique et mécanique, amélioration continue",
+        "startDate": "2021-03-01",
+        "location": "Paris"
+      },
+      {
+        "id": "exp-008-2",
+        "company": "Schneider Electric",
+        "title": "Technicien de maintenance junior",
+        "description": "Assistance aux techniciens seniors, maintenance de premier niveau, gestion des stocks de pièces",
+        "startDate": "2019-09-01",
+        "endDate": "2021-02-28",
+        "location": "Paris"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-008-1",
+        "institution": "Lycée Technique Diderot",
+        "degree": "BTS Maintenance des Systèmes",
+        "fieldOfStudy": "Maintenance industrielle",
+        "startDate": "2017-09-01",
+        "endDate": "2019-06-30"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-008-1",
+        "name": "Habilitation électrique B2V BR",
+        "issuingOrganization": "APAVE",
+        "issueDate": "2024-03-15",
+        "expirationDate": "2027-03-15"
+      }
+    ],
+    "createdAt": "2026-01-22T09:45:00Z"
+  },
+  {
+    "id": "cv-009",
+    "candidateId": "cand-109",
+    "summary": "Jeune animatrice diplômée BAFA, passionnée par le travail avec les enfants. Créative, dynamique et responsable, je cherche à développer mes compétences en animation socio-culturelle.",
+    "skills": [
+      "Animation enfants",
+      "Pédagogie",
+      "Premiers secours",
+      "BAFA",
+      "Activités créatives"
+    ],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Anglais", "level": "INTERMEDIATE" }
+    ],
+    "hobbies": ["Arts plastiques", "Théâtre", "Musique"],
+    "experiences": [
+      {
+        "id": "exp-009-1",
+        "company": "Centre Loisirs Aventure",
+        "title": "Animatrice BAFA",
+        "description": "Animation de groupes d'enfants 6-12 ans, organisation d'activités ludiques et sportives, surveillance des enfants",
+        "startDate": "2024-07-01",
+        "endDate": "2024-08-31",
+        "location": "Lille"
+      },
+      {
+        "id": "exp-009-2",
+        "company": "Mairie de Lille - Centre aéré",
+        "title": "Animatrice stagiaire BAFA",
+        "description": "Assistance aux animateurs, participation à l'organisation des activités, encadrement des enfants",
+        "startDate": "2023-07-01",
+        "endDate": "2023-08-31",
+        "location": "Lille"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-009-1",
+        "institution": "Université de Lille",
+        "degree": "Licence Sciences de l'Éducation (en cours)",
+        "fieldOfStudy": "Sciences de l'éducation",
+        "startDate": "2023-09-01"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-009-1",
+        "name": "BAFA",
+        "issuingOrganization": "DDCS",
+        "issueDate": "2023-09-15"
+      },
+      {
+        "id": "cert-009-2",
+        "name": "PSC1 (Premiers Secours)",
+        "issuingOrganization": "Croix-Rouge Française",
+        "issueDate": "2023-05-10"
+      }
+    ],
+    "createdAt": "2026-02-05T16:30:00Z"
+  },
+  {
+    "id": "cv-010",
+    "candidateId": "cand-110",
+    "summary": "Juriste en droit social avec 10 ans d'expérience en cabinet et en entreprise. Expert en contentieux prud'homal, conseil en relations individuelles et collectives du travail, et négociation sociale.",
+    "skills": [
+      "Droit social",
+      "Contentieux",
+      "Conseil juridique",
+      "Rédaction",
+      "Négociation"
+    ],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Anglais", "level": "FLUENT" }
+    ],
+    "hobbies": ["Voile", "Lecture juridique", "Histoire"],
+    "experiences": [
+      {
+        "id": "exp-010-1",
+        "company": "Cabinet Juridique Associés",
+        "title": "Juriste senior en droit social",
+        "description": "Conseil aux entreprises en droit du travail, gestion de contentieux prud'homaux, rédaction de contrats et accords collectifs",
+        "startDate": "2019-01-01",
+        "location": "Bordeaux"
+      },
+      {
+        "id": "exp-010-2",
+        "company": "Total Énergies",
+        "title": "Juriste droit social",
+        "description": "Conseil aux RH, gestion des relations avec les IRP, suivi des contentieux",
+        "startDate": "2015-09-01",
+        "endDate": "2018-12-31",
+        "location": "Paris"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-010-1",
+        "institution": "Université de Bordeaux",
+        "degree": "Master 2 Droit Social",
+        "fieldOfStudy": "Droit du travail",
+        "startDate": "2013-09-01",
+        "endDate": "2014-06-30"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-010-1",
+        "name": "CAPA (Certificat d'Aptitude à la Profession d'Avocat)",
+        "issuingOrganization": "École des Avocats de Bordeaux",
+        "issueDate": "2015-12-15"
+      }
+    ],
+    "createdAt": "2026-01-05T11:20:00Z"
+  },
+  {
+    "id": "cv-011",
+    "candidateId": "cand-111",
+    "summary": "Coiffeuse qualifiée avec 5 ans d'expérience en salon. Maîtrise des techniques de coupe, coloration et coiffage. Passionnée par les nouvelles tendances et le conseil personnalisé.",
+    "skills": [
+      "Coiffure",
+      "Coloration",
+      "Techniques de coupe",
+      "Conseil clientèle",
+      "Balayage"
+    ],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Anglais", "level": "BEGINNER" }
+    ],
+    "hobbies": ["Mode", "Maquillage", "Instagram"],
+    "experiences": [
+      {
+        "id": "exp-011-1",
+        "company": "Coiffure Élégance",
+        "title": "Coiffeuse confirmée",
+        "description": "Réalisation de coupes, colorations et soins capillaires, conseil personnalisé aux clients, gestion de l'agenda",
+        "startDate": "2021-06-01",
+        "location": "Rennes"
+      },
+      {
+        "id": "exp-011-2",
+        "company": "Salon Jean-Louis David",
+        "title": "Coiffeuse",
+        "description": "Coupes femmes et hommes, shampoings, brushings, colorations simples",
+        "startDate": "2019-09-01",
+        "endDate": "2021-05-31",
+        "location": "Rennes"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-011-1",
+        "institution": "CFA de la Coiffure de Rennes",
+        "degree": "BP Coiffure",
+        "fieldOfStudy": "Coiffure",
+        "startDate": "2017-09-01",
+        "endDate": "2019-06-30"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-011-1",
+        "name": "Formation Colorimétrie Avancée",
+        "issuingOrganization": "L'Oréal Professionnel",
+        "issueDate": "2022-03-20"
+      }
+    ],
+    "createdAt": "2026-02-03T10:15:00Z"
+  },
+  {
+    "id": "cv-012",
+    "candidateId": "cand-112",
+    "summary": "Développeur web full-stack avec 4 ans d'expérience. Spécialisé en JavaScript moderne (React, Node.js) et passionné par la création d'applications web performantes et user-friendly.",
+    "skills": [
+      "Développement web",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "API REST"
+    ],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Anglais", "level": "FLUENT" }
+    ],
+    "hobbies": ["Open source", "Jeux vidéo", "Surf"],
+    "experiences": [
+      {
+        "id": "exp-012-1",
+        "company": "TechInnovate Solutions",
+        "title": "Développeur Full-Stack",
+        "description": "Développement d'applications web avec React et Node.js, conception d'API REST, travail en méthode Agile",
+        "startDate": "2022-03-01",
+        "location": "Sophia Antipolis"
+      },
+      {
+        "id": "exp-012-2",
+        "company": "Startup Weblify",
+        "title": "Développeur Front-End",
+        "description": "Développement d'interfaces utilisateur en React, intégration de maquettes, optimisation des performances",
+        "startDate": "2020-09-01",
+        "endDate": "2022-02-28",
+        "location": "Nice"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-012-1",
+        "institution": "IUT de Nice",
+        "degree": "DUT Informatique",
+        "fieldOfStudy": "Développement web",
+        "startDate": "2018-09-01",
+        "endDate": "2020-06-30"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-012-1",
+        "name": "AWS Certified Developer Associate",
+        "issuingOrganization": "Amazon Web Services",
+        "issueDate": "2023-06-15",
+        "expirationDate": "2026-06-15"
+      }
+    ],
+    "createdAt": "2026-01-25T14:00:00Z"
+  },
+  {
+    "id": "cv-013",
+    "candidateId": "cand-113",
+    "summary": "Responsable Ressources Humaines avec 9 ans d'expérience en PME et ETI. Expertise en recrutement, gestion de la paie, relations sociales et développement RH. Leadership reconnu et sens de l'écoute.",
+    "skills": [
+      "Recrutement",
+      "Gestion RH",
+      "Paie",
+      "Droit du travail",
+      "Formation"
+    ],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Anglais", "level": "ADVANCED" },
+      { "language": "Allemand", "level": "INTERMEDIATE" }
+    ],
+    "hobbies": [
+      "Théâtre d'improvisation",
+      "Running",
+      "Développement personnel"
+    ],
+    "experiences": [
+      {
+        "id": "exp-013-1",
+        "company": "Groupe Industriel Alsace",
+        "title": "Responsable RH",
+        "description": "Management de l'équipe RH (4 personnes), pilotage du recrutement, gestion de la paie, relations avec les IRP",
+        "startDate": "2020-01-01",
+        "location": "Strasbourg"
+      },
+      {
+        "id": "exp-013-2",
+        "company": "Cabinet de recrutement RH Solutions",
+        "title": "Consultante en recrutement",
+        "description": "Recrutement de profils cadres et non-cadres, sourcing, entretiens, accompagnement des clients",
+        "startDate": "2016-09-01",
+        "endDate": "2019-12-31",
+        "location": "Strasbourg"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-013-1",
+        "institution": "IAE de Strasbourg",
+        "degree": "Master Management des Ressources Humaines",
+        "fieldOfStudy": "Gestion des RH",
+        "startDate": "2014-09-01",
+        "endDate": "2016-06-30"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-013-1",
+        "name": "Certification Paie Sage",
+        "issuingOrganization": "Sage",
+        "issueDate": "2020-05-10"
+      }
+    ],
+    "createdAt": "2026-01-18T12:30:00Z"
+  },
+  {
+    "id": "cv-014",
+    "candidateId": "cand-114",
+    "summary": "Jeune préparateur de commandes dynamique et motivé. Titulaire du CACES 1, 3 et 5. Rigoureux, rapide et à l'aise avec les outils de gestion d'entrepôt.",
+    "skills": [
+      "Préparation de commandes",
+      "Manutention",
+      "CACES 1-3-5",
+      "Gestion stocks",
+      "Chariot élévateur"
+    ],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Arabe", "level": "NATIVE" }
+    ],
+    "hobbies": ["Football", "Musculation", "Jeux vidéo"],
+    "experiences": [
+      {
+        "id": "exp-014-1",
+        "company": "Amazon Toulouse",
+        "title": "Préparateur de commandes",
+        "description": "Préparation et conditionnement des commandes, utilisation de chariots élévateurs, respect des procédures de sécurité",
+        "startDate": "2024-06-01",
+        "location": "Toulouse"
+      },
+      {
+        "id": "exp-014-2",
+        "company": "Décathlon Entrepôt",
+        "title": "Agent logistique (Intérim)",
+        "description": "Réception de marchandises, mise en stock, préparation de commandes",
+        "startDate": "2023-09-01",
+        "endDate": "2024-05-31",
+        "location": "Toulouse"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-014-1",
+        "institution": "Lycée Professionnel Toulouse",
+        "degree": "CAP Agent d'Entreposage",
+        "fieldOfStudy": "Logistique",
+        "startDate": "2021-09-01",
+        "endDate": "2023-06-30"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-014-1",
+        "name": "CACES R489 Cat. 1, 3, 5",
+        "issuingOrganization": "AFTRAL",
+        "issueDate": "2023-10-15",
+        "expirationDate": "2028-10-15"
+      }
+    ],
+    "createdAt": "2026-02-10T09:00:00Z"
+  },
+  {
+    "id": "cv-015",
+    "candidateId": "cand-115",
+    "summary": "Directrice Marketing Digital avec 14 ans d'expérience en agence et annonceur. Expert en stratégie digitale, SEO/SEA, social media et e-commerce. Track record prouvé de croissance et d'innovation.",
+    "skills": [
+      "Marketing digital",
+      "Communication",
+      "Réseaux sociaux",
+      "Stratégie de marque",
+      "SEO"
+    ],
+    "languages": [
+      { "language": "Français", "level": "NATIVE" },
+      { "language": "Anglais", "level": "FLUENT" },
+      { "language": "Espagnol", "level": "ADVANCED" }
+    ],
+    "hobbies": ["Yoga", "Photographie", "Voyages"],
+    "experiences": [
+      {
+        "id": "exp-015-1",
+        "company": "L'Oréal Paris",
+        "title": "Directrice Marketing Digital",
+        "description": "Pilotage de la stratégie digitale, management d'une équipe de 10 personnes, gestion du budget e-commerce (15M€)",
+        "startDate": "2018-03-01",
+        "location": "Paris"
+      },
+      {
+        "id": "exp-015-2",
+        "company": "Publicis Groupe",
+        "title": "Directrice de clientèle digital",
+        "description": "Conseil stratégique clients, pilotage de campagnes digitales 360°, développement commercial",
+        "startDate": "2013-09-01",
+        "endDate": "2018-02-28",
+        "location": "Paris"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-015-1",
+        "institution": "ESSEC Business School",
+        "degree": "Master Grande École",
+        "fieldOfStudy": "Marketing",
+        "startDate": "2009-09-01",
+        "endDate": "2011-06-30"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-015-1",
+        "name": "Google Analytics Certification",
+        "issuingOrganization": "Google",
+        "issueDate": "2023-01-15",
+        "expirationDate": "2025-01-15"
+      },
+      {
+        "id": "cert-015-2",
+        "name": "Facebook Blueprint Certification",
+        "issuingOrganization": "Meta",
+        "issueDate": "2023-03-10",
+        "expirationDate": "2025-03-10"
+      }
+    ],
+    "createdAt": "2025-12-28T08:45:00Z",
+    "updatedAt": "2026-02-05T10:30:00Z"
+  }
+]

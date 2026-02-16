@@ -1,364 +1,594 @@
 [
   {
     "id": "emp-001",
+    "personalInfo": {
+      "firstName": "Catherine",
+      "lastName": "Moreau",
+      "dateOfBirth": "1978-05-12",
+      "gender": "FEMALE",
+      "phoneNumber": "+33 6 78 45 32 10",
+      "email": "c.moreau@grandhotel-paris.fr",
+      "profilePictureUrl": "https://storage.example.com/profiles/catherine-moreau.jpg"
+    },
     "companyInfo": {
-      "name": "TechSolutions Belgium",
-      "sector": "IT",
-      "size": "PME",
-      "description": "Société spécialisée dans le développement d'applications web et mobiles pour les entreprises.",
-      "website": "www.techsolutions.be"
+      "name": "Le Grand Hôtel Paris",
+      "sector": "Hôtellerie",
+      "size": "Grande entreprise",
+      "description": "Hôtel 5 étoiles situé au cœur de Paris, offrant une expérience luxueuse à notre clientèle internationale. Nous recherchons des talents passionnés pour rejoindre notre équipe d'excellence.",
+      "website": "https://www.grandhotel-paris.fr"
     },
     "address": {
-      "street": "Avenue Louise 149",
-      "city": "Bruxelles",
-      "postalCode": "1050",
-      "country": "Belgique"
+      "street": "15 avenue des Champs-Élysées",
+      "city": "Paris",
+      "postalCode": "75008",
+      "country": "France"
     },
     "contact": {
-      "email": "rh@techsolutions.be",
-      "phone": "02/555-0001",
-      "contactPerson": "Sophie Moreau"
+      "email": "recrutement@grandhotel-paris.fr",
+      "phone": "+33 1 45 67 89 00",
+      "contactPerson": "Catherine Moreau"
     },
-    "jobOffers": {
-      "activePositions": [
-        "Développeur Full Stack",
-        "Chef de Projet IT",
-        "UX/UI Designer"
-      ],
-      "contractTypes": ["CDI", "Freelance"],
-      "experienceLevels": ["Junior", "Intermédiaire", "Senior"]
-    },
+    "jobOfferIds": ["job-201", "job-206"],
     "benefits": [
-      "Télétravail",
-      "Formation continue",
-      "Assurance groupe",
-      "Voiture de société"
+      "Tickets restaurant",
+      "Mutuelle d'entreprise",
+      "CE avantageux",
+      "Primes trimestrielles",
+      "Formation continue"
     ],
-    "createdAt": "2026-01-15"
+    "createdAt": "2024-06-15T10:00:00Z",
+    "updatedAt": "2026-02-10T14:30:00Z"
   },
   {
     "id": "emp-002",
+    "personalInfo": {
+      "firstName": "Marc",
+      "lastName": "Dubois",
+      "dateOfBirth": "1985-09-22",
+      "gender": "MALE",
+      "phoneNumber": "+33 6 23 45 67 89",
+      "email": "marc.dubois@carrefour.fr"
+    },
     "companyInfo": {
-      "name": "LogiFlow International",
-      "sector": "Logistique",
+      "name": "Carrefour Lyon Confluence",
+      "sector": "Grande distribution",
       "size": "Grande entreprise",
-      "description": "Leader européen en solutions logistiques et transport international.",
-      "website": "www.logiflow.eu"
+      "description": "Leader de la grande distribution en France, nous recrutons régulièrement pour nos équipes de vente, logistique et management. Évolution de carrière garantie.",
+      "website": "https://www.carrefour.fr"
     },
     "address": {
-      "street": "Industriezone 45",
-      "city": "Anvers",
-      "postalCode": "2000",
-      "country": "Belgique"
+      "street": "112 cours Charlemagne",
+      "city": "Lyon",
+      "postalCode": "69002",
+      "country": "France"
     },
     "contact": {
-      "email": "jobs@logiflow.eu",
-      "phone": "03/555-0002",
-      "contactPerson": "Marc Van Der Berg"
+      "email": "rh.lyon@carrefour.fr",
+      "phone": "+33 4 78 56 34 00",
+      "contactPerson": "Marc Dubois"
     },
-    "jobOffers": {
-      "activePositions": [
-        "Responsable Logistique",
-        "Chauffeur Poids Lourds",
-        "Magasinier"
-      ],
-      "contractTypes": ["CDI", "Intérim"],
-      "experienceLevels": ["Junior", "Intermédiaire", "Senior", "Expert"]
-    },
+    "jobOfferIds": ["job-202", "job-210"],
     "benefits": [
-      "Prime de performance",
-      "Mutuelle",
       "13ème mois",
-      "Formation permis"
+      "Participation aux bénéfices",
+      "Remise employé 10%",
+      "Mutuelle",
+      "Plan épargne entreprise"
     ],
-    "createdAt": "2026-01-18"
+    "createdAt": "2023-11-20T14:30:00Z",
+    "updatedAt": "2026-02-08T11:00:00Z"
   },
   {
     "id": "emp-003",
+    "personalInfo": {
+      "firstName": "Philippe",
+      "lastName": "Rousseau",
+      "dateOfBirth": "1972-03-18",
+      "gender": "MALE",
+      "phoneNumber": "+33 6 45 67 89 01",
+      "email": "p.rousseau@automeca.fr"
+    },
     "companyInfo": {
-      "name": "BankCorp Belgium",
-      "sector": "Finance",
-      "size": "Grande entreprise",
-      "description": "Institution financière de référence offrant services bancaires et d'assurance.",
-      "website": "www.bankcorp.be"
+      "name": "AutoMéca Services",
+      "sector": "Industrie automobile",
+      "size": "PME",
+      "description": "PME spécialisée dans la maintenance industrielle automobile. Entreprise à taille humaine offrant de réelles perspectives d'évolution.",
+      "website": "https://www.automeca-services.fr"
     },
     "address": {
-      "street": "Place Eugène Flagey 18",
-      "city": "Bruxelles",
-      "postalCode": "1050",
-      "country": "Belgique"
+      "street": "Zone Industrielle Nord",
+      "city": "Toulouse",
+      "postalCode": "31200",
+      "country": "France"
     },
     "contact": {
-      "email": "recruitment@bankcorp.be",
-      "phone": "02/555-0003",
-      "contactPerson": "Jean-Pierre Dumont"
+      "email": "contact@automeca-services.fr",
+      "phone": "+33 5 61 23 45 60",
+      "contactPerson": "Philippe Rousseau"
     },
-    "jobOffers": {
-      "activePositions": [
-        "Conseiller Clientèle",
-        "Analyste Financier",
-        "Gestionnaire Crédit"
-      ],
-      "contractTypes": ["CDI"],
-      "experienceLevels": ["Intermédiaire", "Senior", "Expert"]
-    },
+    "jobOfferIds": ["job-203"],
     "benefits": [
-      "Bonus annuel",
-      "Plan pension",
-      "Assurance soins de santé",
-      "Congés flexibles"
+      "Tickets restaurant",
+      "Mutuelle",
+      "Primes sur objectifs",
+      "Véhicule de fonction",
+      "Formation technique"
     ],
-    "createdAt": "2026-01-20"
+    "createdAt": "2024-01-10T09:15:00Z",
+    "updatedAt": "2026-01-25T16:45:00Z"
   },
   {
     "id": "emp-004",
+    "personalInfo": {
+      "firstName": "Anne",
+      "lastName": "Lefebvre",
+      "dateOfBirth": "1980-11-08",
+      "gender": "FEMALE",
+      "phoneNumber": "+33 6 67 89 01 23",
+      "email": "a.lefebvre@clinique-stmichel.fr"
+    },
     "companyInfo": {
-      "name": "HealthCare Plus",
+      "name": "Clinique Saint-Michel",
       "sector": "Santé",
       "size": "PME",
-      "description": "Réseau de centres de soins spécialisés en gériatrie et soins à domicile.",
-      "website": "www.healthcareplus.be"
+      "description": "Établissement de santé moderne recrute du personnel soignant qualifié. Excellent environnement de travail et équipements de pointe.",
+      "website": "https://www.clinique-stmichel.fr"
     },
     "address": {
-      "street": "Rue des Hospitaliers 67",
-      "city": "Liège",
-      "postalCode": "4000",
-      "country": "Belgique"
+      "street": "88 rue de la Santé",
+      "city": "Montpellier",
+      "postalCode": "34000",
+      "country": "France"
     },
     "contact": {
-      "email": "hr@healthcareplus.be",
-      "phone": "04/555-0004",
-      "contactPerson": "Dr. Marie Vandenberghe"
+      "email": "rh@clinique-stmichel.fr",
+      "phone": "+33 4 67 89 12 00",
+      "contactPerson": "Dr. Anne Lefebvre"
     },
-    "jobOffers": {
-      "activePositions": [
-        "Infirmier/ère",
-        "Aide-soignant(e)",
-        "Kinésithérapeute"
-      ],
-      "contractTypes": ["CDI", "Intérim", "Temps partiel"],
-      "experienceLevels": ["Junior", "Intermédiaire", "Senior"]
-    },
+    "jobOfferIds": ["job-204"],
     "benefits": [
-      "Horaires flexibles",
-      "Formation médicale continue",
-      "Prime de nuit",
-      "Mutuelle"
+      "Mutuelle premium",
+      "Crèche d'entreprise",
+      "Primes de nuit",
+      "Formation continue",
+      "Tickets restaurant"
     ],
-    "createdAt": "2026-01-22"
+    "createdAt": "2023-09-05T11:00:00Z",
+    "updatedAt": "2026-02-12T09:30:00Z"
   },
   {
     "id": "emp-005",
+    "personalInfo": {
+      "firstName": "Jean",
+      "lastName": "Martin",
+      "dateOfBirth": "1975-07-30",
+      "gender": "MALE",
+      "phoneNumber": "+33 6 89 01 23 45",
+      "email": "j.martin@translog.fr"
+    },
     "companyInfo": {
-      "name": "Green Energy Solutions",
-      "sector": "Énergies Renouvelables",
-      "size": "Startup",
-      "description": "Entreprise innovante spécialisée dans les solutions d'énergie solaire et éolienne.",
-      "website": "www.greenenergy.be"
+      "name": "TransLog France",
+      "sector": "Transport et Logistique",
+      "size": "PME",
+      "description": "Entreprise de transport routier en pleine croissance. Nous recherchons des conducteurs professionnels et du personnel logistique.",
+      "website": "https://www.translog-france.fr"
     },
     "address": {
-      "street": "Parc Scientifique 12",
-      "city": "Louvain-la-Neuve",
-      "postalCode": "1348",
-      "country": "Belgique"
+      "street": "45 rue des Entrepôts",
+      "city": "Lille",
+      "postalCode": "59000",
+      "country": "France"
     },
     "contact": {
-      "email": "careers@greenenergy.be",
-      "phone": "010/555-0005",
-      "contactPerson": "Thomas Jacobs"
+      "email": "recrutement@translog-france.fr",
+      "phone": "+33 3 20 45 67 00",
+      "contactPerson": "Jean Martin"
     },
-    "jobOffers": {
-      "activePositions": [
-        "Ingénieur Énergies Renouvelables",
-        "Technicien Installation",
-        "Commercial B2B"
-      ],
-      "contractTypes": ["CDI", "Stage"],
-      "experienceLevels": ["Junior", "Intermédiaire"]
-    },
+    "jobOfferIds": ["job-205", "job-209"],
     "benefits": [
-      "Stock options",
-      "Télétravail hybride",
-      "Vélo de société",
-      "Formation technique"
+      "Primes de transport",
+      "Mutuelle famille",
+      "Prime annuelle",
+      "Véhicules récents",
+      "Repos compensateurs"
     ],
-    "createdAt": "2026-01-25"
+    "createdAt": "2024-03-22T08:45:00Z",
+    "updatedAt": "2026-02-14T15:00:00Z"
   },
   {
     "id": "emp-006",
+    "personalInfo": {
+      "firstName": "Pierre",
+      "lastName": "Gauthier",
+      "dateOfBirth": "1982-04-15",
+      "gender": "MALE",
+      "phoneNumber": "+33 6 90 12 34 56",
+      "email": "p.gauthier@lecomptoir.fr"
+    },
     "companyInfo": {
-      "name": "Resto Excellence",
+      "name": "Brasserie Le Comptoir",
       "sector": "Restauration",
-      "size": "Chaîne",
-      "description": "Chaîne de restaurants gastronomiques présente dans toute la Belgique.",
-      "website": "www.resto-excellence.be"
+      "size": "PME",
+      "description": "Brasserie traditionnelle française reconnue pour son ambiance conviviale et sa cuisine de qualité. Nous recrutons pour renforcer notre brigade.",
+      "website": "https://www.brasserie-lecomptoir.fr"
     },
     "address": {
-      "street": "Grand Place 4",
-      "city": "Bruges",
-      "postalCode": "8000",
-      "country": "Belgique"
+      "street": "34 place de la République",
+      "city": "Bordeaux",
+      "postalCode": "33000",
+      "country": "France"
     },
     "contact": {
-      "email": "recrutement@resto-excellence.be",
-      "phone": "050/555-0006",
-      "contactPerson": "Chef Laurent Delacroix"
+      "email": "contact@brasserie-lecomptoir.fr",
+      "phone": "+33 5 56 78 90 00",
+      "contactPerson": "Pierre Gauthier"
     },
-    "jobOffers": {
-      "activePositions": ["Cuisinier", "Serveur", "Manager Restaurant"],
-      "contractTypes": ["CDI", "Intérim", "Saisonnier"],
-      "experienceLevels": ["Junior", "Intermédiaire", "Senior"]
-    },
+    "jobOfferIds": ["job-207"],
     "benefits": [
-      "Repas gratuits",
-      "Primes de service",
-      "Formation culinaire",
-      "Évolution rapide"
+      "Repas fournis",
+      "Pourboires",
+      "Horaires flexibles",
+      "Formation interne",
+      "Ambiance familiale"
     ],
-    "createdAt": "2026-01-28"
+    "createdAt": "2024-07-18T16:20:00Z",
+    "updatedAt": "2026-02-11T10:15:00Z"
   },
   {
     "id": "emp-007",
+    "personalInfo": {
+      "firstName": "Sophie",
+      "lastName": "Blanchard",
+      "dateOfBirth": "1977-12-03",
+      "gender": "FEMALE",
+      "phoneNumber": "+33 6 01 23 45 67",
+      "email": "s.blanchard@cja-avocats.fr"
+    },
     "companyInfo": {
-      "name": "Manufacturing Pro",
-      "sector": "Industrie",
-      "size": "Grande entreprise",
-      "description": "Fabricant de composants automobiles et équipements industriels.",
-      "website": "www.manufacturingpro.be"
+      "name": "Cabinet Juridique Associés",
+      "sector": "Services juridiques",
+      "size": "PME",
+      "description": "Cabinet d'avocats reconnu spécialisé en droit des affaires et droit social. Nous recrutons des juristes et collaborateurs qualifiés.",
+      "website": "https://www.cja-avocats.fr"
     },
     "address": {
-      "street": "Zone Industrielle 89",
-      "city": "Charleroi",
-      "postalCode": "6000",
-      "country": "Belgique"
+      "street": "56 boulevard Saint-Germain",
+      "city": "Paris",
+      "postalCode": "75005",
+      "country": "France"
     },
     "contact": {
-      "email": "jobs@manufacturingpro.be",
-      "phone": "071/555-0007",
-      "contactPerson": "Ingénieur Paul Stevens"
+      "email": "cabinet@cja-avocats.fr",
+      "phone": "+33 1 43 21 56 00",
+      "contactPerson": "Maître Sophie Blanchard"
     },
-    "jobOffers": {
-      "activePositions": [
-        "Opérateur Machine",
-        "Technicien Maintenance",
-        "Ingénieur Qualité"
-      ],
-      "contractTypes": ["CDI", "Intérim"],
-      "experienceLevels": ["Junior", "Intermédiaire", "Senior", "Expert"]
-    },
+    "jobOfferIds": ["job-208"],
     "benefits": [
-      "Prime de production",
-      "Assurance groupe",
-      "Formation technique",
-      "Plan carrière"
+      "Primes exceptionnelles",
+      "Télétravail possible",
+      "Mutuelle premium",
+      "Bibliothèque juridique",
+      "Formation continue"
     ],
-    "createdAt": "2026-02-01"
+    "createdAt": "2023-12-08T13:30:00Z",
+    "updatedAt": "2026-02-15T11:45:00Z"
   },
   {
     "id": "emp-008",
+    "personalInfo": {
+      "firstName": "Émilie",
+      "lastName": "Chen",
+      "dateOfBirth": "1988-06-25",
+      "gender": "FEMALE",
+      "phoneNumber": "+33 6 12 34 56 78",
+      "email": "e.chen@techinnovate.fr"
+    },
     "companyInfo": {
-      "name": "Digital Marketing Hub",
-      "sector": "Marketing",
-      "size": "PME",
-      "description": "Agence spécialisée en marketing digital et stratégies de communication.",
-      "website": "www.digitalmarketinghub.be"
+      "name": "TechInnovate Solutions",
+      "sector": "Technologies de l'information",
+      "size": "Startup",
+      "description": "Startup innovante dans le développement de solutions web et mobile. Environnement agile et dynamique avec de belles perspectives de croissance.",
+      "website": "https://www.techinnovate-solutions.fr"
     },
     "address": {
-      "street": "Rue Neuve 156",
-      "city": "Bruxelles",
-      "postalCode": "1000",
-      "country": "Belgique"
+      "street": "25 rue de la Silicon Valley",
+      "city": "Sophia Antipolis",
+      "postalCode": "06560",
+      "country": "France"
     },
     "contact": {
-      "email": "talent@digitalmarketinghub.be",
-      "phone": "02/555-0008",
-      "contactPerson": "Emma Rodriguez"
+      "email": "hr@techinnovate-solutions.fr",
+      "phone": "+33 4 93 00 12 00",
+      "contactPerson": "Émilie Chen"
     },
-    "jobOffers": {
-      "activePositions": [
-        "Chef de Projet Digital",
-        "Spécialiste SEO",
-        "Community Manager"
-      ],
-      "contractTypes": ["CDI", "Freelance"],
-      "experienceLevels": ["Junior", "Intermédiaire", "Senior"]
-    },
+    "jobOfferIds": ["job-211"],
     "benefits": [
-      "Environnement créatif",
-      "Télétravail",
-      "Formation Google/Meta",
-      "Projets variés"
+      "Stock-options",
+      "Télétravail 3j/semaine",
+      "Mutuelle",
+      "Team building réguliers",
+      "Budget formation",
+      "Matériel dernier cri"
     ],
-    "createdAt": "2026-02-05"
+    "createdAt": "2024-02-14T10:00:00Z",
+    "updatedAt": "2026-02-09T14:20:00Z"
   },
   {
     "id": "emp-009",
+    "personalInfo": {
+      "firstName": "Isabelle",
+      "lastName": "Petit",
+      "dateOfBirth": "1986-08-17",
+      "gender": "FEMALE",
+      "phoneNumber": "+33 6 23 45 67 90",
+      "email": "i.petit@coiffure-elegance.fr"
+    },
     "companyInfo": {
-      "name": "Construction Elite",
-      "sector": "Construction",
+      "name": "Coiffure Élégance",
+      "sector": "Services esthétiques",
       "size": "PME",
-      "description": "Entreprise de construction spécialisée en bâtiments résidentiels et commerciaux.",
-      "website": "www.construction-elite.be"
+      "description": "Salon de coiffure haut de gamme. Nous recherchons des coiffeurs/coiffeuses qualifiés pour rejoindre notre équipe créative.",
+      "website": "https://www.coiffure-elegance.fr"
     },
     "address": {
-      "street": "Avenue des Artisans 33",
-      "city": "Namur",
-      "postalCode": "5000",
-      "country": "Belgique"
+      "street": "12 rue de la Mode",
+      "city": "Rennes",
+      "postalCode": "35000",
+      "country": "France"
     },
     "contact": {
-      "email": "rh@construction-elite.be",
-      "phone": "081/555-0009",
-      "contactPerson": "Contremaître Michel Claes"
+      "email": "contact@coiffure-elegance.fr",
+      "phone": "+33 2 99 12 34 50",
+      "contactPerson": "Isabelle Petit"
     },
-    "jobOffers": {
-      "activePositions": ["Maçon", "Électricien", "Chef de Chantier"],
-      "contractTypes": ["CDI", "Intérim"],
-      "experienceLevels": ["Junior", "Intermédiaire", "Expert"]
-    },
+    "jobOfferIds": ["job-212"],
     "benefits": [
-      "Véhicule de chantier",
-      "Outillage fourni",
-      "Prime de rendement",
-      "Formation sécurité"
+      "Commission sur ventes",
+      "Formation produits haut de gamme",
+      "Primes sur objectifs",
+      "Horaires aménageables",
+      "Ambiance conviviale"
     ],
-    "createdAt": "2026-02-08"
+    "createdAt": "2024-05-03T14:15:00Z",
+    "updatedAt": "2026-02-03T09:00:00Z"
   },
   {
     "id": "emp-010",
+    "personalInfo": {
+      "firstName": "Lucas",
+      "lastName": "Bernard",
+      "dateOfBirth": "1990-02-28",
+      "gender": "MALE",
+      "phoneNumber": "+33 6 34 56 78 01",
+      "email": "l.bernard@loisirs-aventure.fr"
+    },
     "companyInfo": {
-      "name": "Consulting Partners",
-      "sector": "Conseil",
+      "name": "Centre Loisirs Aventure",
+      "sector": "Animation et Loisirs",
       "size": "PME",
-      "description": "Cabinet de conseil en management et transformation digitale des entreprises.",
-      "website": "www.consulting-partners.be"
+      "description": "Centre de loisirs proposant des activités sportives et créatives pour enfants et adolescents. Nous recrutons des animateurs passionnés.",
+      "website": "https://www.loisirs-aventure.fr"
     },
     "address": {
-      "street": "Boulevard du Souverain 280",
-      "city": "Uccle",
-      "postalCode": "1160",
-      "country": "Belgique"
+      "street": "78 avenue des Sports",
+      "city": "Nantes",
+      "postalCode": "44000",
+      "country": "France"
     },
     "contact": {
-      "email": "careers@consulting-partners.be",
-      "phone": "02/555-0010",
-      "contactPerson": "Partner Senior David Lambert"
+      "email": "rh@centre-loisirs-aventure.fr",
+      "phone": "+33 2 40 56 78 00",
+      "contactPerson": "Lucas Bernard"
     },
-    "jobOffers": {
-      "activePositions": [
-        "Consultant Junior",
-        "Business Analyst",
-        "Project Manager"
-      ],
-      "contractTypes": ["CDI", "Freelance"],
-      "experienceLevels": ["Junior", "Intermédiaire", "Senior", "Expert"]
-    },
+    "jobOfferIds": ["job-213"],
     "benefits": [
-      "Voiture de société",
-      "Ordinateur portable",
-      "Budget formation",
-      "Projets internationaux"
+      "Repas fournis",
+      "Formation BAFA prise en charge",
+      "Activités gratuites",
+      "Mutuelle",
+      "Équipe jeune et dynamique"
     ],
-    "createdAt": "2026-02-10"
+    "createdAt": "2024-04-12T09:30:00Z",
+    "updatedAt": "2026-02-05T16:30:00Z"
+  },
+  {
+    "id": "emp-011",
+    "personalInfo": {
+      "firstName": "Valérie",
+      "lastName": "Dupont",
+      "dateOfBirth": "1984-10-12",
+      "gender": "FEMALE",
+      "phoneNumber": "+33 6 45 67 89 12",
+      "email": "v.dupont@marketpro.fr"
+    },
+    "companyInfo": {
+      "name": "MarketPro Agency",
+      "sector": "Marketing et Communication",
+      "size": "PME",
+      "description": "Agence de marketing digital en pleine croissance. Nous accompagnons nos clients dans leur transformation digitale et recrutons des talents créatifs.",
+      "website": "https://www.marketpro-agency.fr"
+    },
+    "address": {
+      "street": "43 rue de la Communication",
+      "city": "Paris",
+      "postalCode": "75002",
+      "country": "France"
+    },
+    "contact": {
+      "email": "recrutement@marketpro-agency.fr",
+      "phone": "+33 1 42 56 78 90",
+      "contactPerson": "Valérie Dupont"
+    },
+    "jobOfferIds": ["job-214"],
+    "benefits": [
+      "Télétravail flexible",
+      "Tickets restaurant",
+      "Mutuelle",
+      "Budget formation",
+      "Événements d'équipe",
+      "Primes sur projets"
+    ],
+    "createdAt": "2024-08-20T11:00:00Z",
+    "updatedAt": "2026-02-01T13:15:00Z"
+  },
+  {
+    "id": "emp-012",
+    "personalInfo": {
+      "firstName": "Thomas",
+      "lastName": "Lefevre",
+      "dateOfBirth": "1979-05-09",
+      "gender": "MALE",
+      "phoneNumber": "+33 6 56 78 90 12",
+      "email": "t.lefevre@comptaexpert.fr"
+    },
+    "companyInfo": {
+      "name": "Compta Expert & Associés",
+      "sector": "Expertise comptable",
+      "size": "PME",
+      "description": "Cabinet d'expertise comptable reconnu accompagnant PME et ETI. Nous recrutons des collaborateurs comptables et des experts-comptables.",
+      "website": "https://www.comptaexpert.fr"
+    },
+    "address": {
+      "street": "67 avenue de la République",
+      "city": "Lyon",
+      "postalCode": "69003",
+      "country": "France"
+    },
+    "contact": {
+      "email": "rh@comptaexpert.fr",
+      "phone": "+33 4 78 90 12 34",
+      "contactPerson": "Thomas Lefevre"
+    },
+    "jobOfferIds": ["job-215"],
+    "benefits": [
+      "Prime annuelle",
+      "Mutuelle famille",
+      "Télétravail partiel",
+      "Formation continue",
+      "Tickets restaurant",
+      "RTT"
+    ],
+    "createdAt": "2023-10-15T10:30:00Z",
+    "updatedAt": "2026-01-28T14:00:00Z"
+  },
+  {
+    "id": "emp-013",
+    "personalInfo": {
+      "firstName": "Sarah",
+      "lastName": "Dubois",
+      "dateOfBirth": "1987-03-21",
+      "gender": "FEMALE",
+      "phoneNumber": "+33 6 67 89 01 23",
+      "email": "s.dubois@lecadrepro.fr"
+    },
+    "companyInfo": {
+      "name": "Le Cadre Pro",
+      "sector": "Agence d'intérim",
+      "size": "PME",
+      "description": "Agence d'intérim spécialisée dans le recrutement tous secteurs. Nous recherchons des conseillers en recrutement dynamiques.",
+      "website": "https://www.lecadrepro.fr"
+    },
+    "address": {
+      "street": "89 boulevard du Commerce",
+      "city": "Marseille",
+      "postalCode": "13001",
+      "country": "France"
+    },
+    "contact": {
+      "email": "recrutement@lecadrepro.fr",
+      "phone": "+33 4 91 23 45 67",
+      "contactPerson": "Sarah Dubois"
+    },
+    "jobOfferIds": ["job-216"],
+    "benefits": [
+      "Commissions attractives",
+      "Prime sur objectifs",
+      "Mutuelle",
+      "Voiture de fonction",
+      "Formation recrutement",
+      "Évolution rapide"
+    ],
+    "createdAt": "2024-01-22T09:00:00Z",
+    "updatedAt": "2026-02-13T10:30:00Z"
+  },
+  {
+    "id": "emp-014",
+    "personalInfo": {
+      "firstName": "Antoine",
+      "lastName": "Mercier",
+      "dateOfBirth": "1981-11-30",
+      "gender": "MALE",
+      "phoneNumber": "+33 6 78 90 12 34",
+      "email": "a.mercier@freshmarket.fr"
+    },
+    "companyInfo": {
+      "name": "Fresh Market Bio",
+      "sector": "Commerce alimentaire",
+      "size": "Cha�ne",
+      "description": "Chaîne de supermarchés bio en expansion. Nous recrutons pour nos nouveaux magasins : vendeurs, responsables de rayon et managers.",
+      "website": "https://www.freshmarket-bio.fr"
+    },
+    "address": {
+      "street": "23 avenue du Bio",
+      "city": "Toulouse",
+      "postalCode": "31000",
+      "country": "France"
+    },
+    "contact": {
+      "email": "rh@freshmarket-bio.fr",
+      "phone": "+33 5 61 34 56 78",
+      "contactPerson": "Antoine Mercier"
+    },
+    "jobOfferIds": ["job-217"],
+    "benefits": [
+      "Réduction employé 20%",
+      "Mutuelle",
+      "Intéressement",
+      "Plan de carrière",
+      "Formation produits bio",
+      "Primes"
+    ],
+    "createdAt": "2024-06-05T14:45:00Z",
+    "updatedAt": "2026-02-06T11:20:00Z"
+  },
+  {
+    "id": "emp-015",
+    "personalInfo": {
+      "firstName": "Nathalie",
+      "lastName": "Fontaine",
+      "dateOfBirth": "1983-07-14",
+      "gender": "FEMALE",
+      "phoneNumber": "+33 6 89 01 23 45",
+      "email": "n.fontaine@careadmin.fr"
+    },
+    "companyInfo": {
+      "name": "CareAdmin Services",
+      "sector": "Services administratifs",
+      "size": "PME",
+      "description": "Entreprise de services administratifs pour professionnels de santé. Nous recherchons des assistantes administratives et secrétaires médicales.",
+      "website": "https://www.careadmin-services.fr"
+    },
+    "address": {
+      "street": "15 rue de la Santé",
+      "city": "Strasbourg",
+      "postalCode": "67000",
+      "country": "France"
+    },
+    "contact": {
+      "email": "contact@careadmin-services.fr",
+      "phone": "+33 3 88 12 34 56",
+      "contactPerson": "Nathalie Fontaine"
+    },
+    "jobOfferIds": ["job-218"],
+    "benefits": [
+      "Horaires de bureau",
+      "Télétravail possible",
+      "Tickets restaurant",
+      "Mutuelle",
+      "Formation continue",
+      "Ambiance familiale"
+    ],
+    "createdAt": "2024-09-10T08:30:00Z",
+    "updatedAt": "2026-01-30T15:45:00Z"
   }
 ]

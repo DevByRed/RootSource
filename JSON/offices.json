@@ -1,117 +1,54 @@
 [
   {
     "id": "office-001",
-    "name": "Bureau Bruxelles Centre",
-    "type": "Siège Social",
+    "name": "Agence Recrutement Plus - Bruxelles",
+    "type": "Agence R�gionale",
     "address": {
-      "street": "Boulevard Adolphe Max 55",
+      "street": "Avenue Louise 250",
       "city": "Bruxelles",
-      "postalCode": "1000",
+      "postalCode": "1050",
       "country": "Belgique"
     },
     "contact": {
-      "phone": "02/234-5600",
-      "email": "bruxelles@jobconnect.be",
-      "manager": "Directeur Régional - Patricia Lecomte"
+      "phone": "+32 2 512 34 56",
+      "email": "bruxelles@agence-recrutement.fr",
+      "manager": "Philippe Dubois"
     },
     "specializations": [
-      "IT",
+      "Cadres et Dirigeants",
+      "Commerce International",
       "Finance",
-      "Marketing",
-      "Conseil",
-      "Ressources Humaines"
+      "Institutions Européennes",
+      "IT et Digital"
     ],
-    "services": ["Recrutement CDI", "Intérim", "Formation", "Conseil RH"],
+    "services": [
+      "Recrutement CDI/CDD",
+      "Chasse de têtes",
+      "Intérim qualifié",
+      "Conseil RH",
+      "Assessment center",
+      "Accompagnement mobilité internationale"
+    ],
     "staff": {
       "recruiters": 8,
-      "consultants": 4,
+      "consultants": 5,
       "administrative": 3
     },
     "openingHours": {
-      "monday": "08:00-18:00",
-      "tuesday": "08:00-18:00",
-      "wednesday": "08:00-18:00",
-      "thursday": "08:00-18:00",
-      "friday": "08:00-17:00",
-      "saturday": "09:00-12:00"
+      "monday": "08:30-18:00",
+      "tuesday": "08:30-18:00",
+      "wednesday": "08:30-18:00",
+      "thursday": "08:30-18:00",
+      "friday": "08:30-17:30",
+      "saturday": "Fermé",
+      "sunday": "Fermé"
     },
-    "openedAt": "2018-03-15"
+    "openedAt": "2018-03-15T09:00:00Z"
   },
   {
     "id": "office-002",
-    "name": "Bureau Anvers Port",
-    "type": "Agence Régionale",
-    "address": {
-      "street": "Meir 78",
-      "city": "Anvers",
-      "postalCode": "2000",
-      "country": "Belgique"
-    },
-    "contact": {
-      "phone": "03/234-5601",
-      "email": "anvers@jobconnect.be",
-      "manager": "Responsable Agence - Jan Vermeulen"
-    },
-    "specializations": ["Logistique", "Transport", "Industrie", "Construction"],
-    "services": ["Recrutement CDI", "Intérim", "Travail Portuaire"],
-    "staff": {
-      "recruiters": 5,
-      "consultants": 2,
-      "administrative": 2
-    },
-    "openingHours": {
-      "monday": "07:30-17:30",
-      "tuesday": "07:30-17:30",
-      "wednesday": "07:30-17:30",
-      "thursday": "07:30-17:30",
-      "friday": "07:30-16:30",
-      "saturday": "08:00-12:00"
-    },
-    "openedAt": "2019-09-20"
-  },
-  {
-    "id": "office-003",
-    "name": "Bureau Gand Technologie",
-    "type": "Agence Spécialisée",
-    "address": {
-      "street": "Korenmarkt 12",
-      "city": "Gand",
-      "postalCode": "9000",
-      "country": "Belgique"
-    },
-    "contact": {
-      "phone": "09/234-5602",
-      "email": "gand@jobconnect.be",
-      "manager": "Responsable Agence - Sophie Van De Walle"
-    },
-    "specializations": [
-      "IT",
-      "Ingénierie",
-      "Bio-Tech",
-      "Recherche & Développement"
-    ],
-    "services": [
-      "Recrutement spécialisé",
-      "Conseil technique"
-    ],
-    "staff": {
-      "recruiters": 4,
-      "consultants": 3,
-      "administrative": 1
-    },
-    "openingHours": {
-      "monday": "08:30-17:30",
-      "tuesday": "08:30-17:30",
-      "wednesday": "08:30-17:30",
-      "thursday": "08:30-17:30",
-      "friday": "08:30-16:30"
-    },
-    "openedAt": "2020-11-10"
-  },
-  {
-    "id": "office-004",
-    "name": "Bureau Liège Santé",
-    "type": "Agence Régionale",
+    "name": "Agence Recrutement Plus - Liège",
+    "type": "Agence R�gionale",
     "address": {
       "street": "Rue Léopold 45",
       "city": "Liège",
@@ -119,69 +56,40 @@
       "country": "Belgique"
     },
     "contact": {
-      "phone": "04/234-5603",
-      "email": "liege@jobconnect.be",
-      "manager": "Responsable Agence - Docteur Martin Dubois"
+      "phone": "+32 4 222 33 44",
+      "email": "liege@agence-recrutement.fr",
+      "manager": "Jean-Marc Delcourt"
     },
     "specializations": [
-      "Santé",
-      "Paramédical",
-      "Pharmaceutique",
-      "Soins à domicile"
-    ],
-    "services": ["Recrutement médical", "Intérim santé", "Formation continue"],
-    "staff": {
-      "recruiters": 4,
-      "consultants": 2,
-      "administrative": 2
-    },
-    "openingHours": {
-      "monday": "08:00-17:00",
-      "tuesday": "08:00-17:00",
-      "wednesday": "08:00-17:00",
-      "thursday": "08:00-17:00",
-      "friday": "08:00-16:00"
-    },
-    "openedAt": "2021-01-25"
-  },
-  {
-    "id": "office-005",
-    "name": "Bureau Charleroi Industries",
-    "type": "Agence Locale",
-    "address": {
-      "street": "Rue de la Montagne 67",
-      "city": "Charleroi",
-      "postalCode": "6000",
-      "country": "Belgique"
-    },
-    "contact": {
-      "phone": "071/234-5604",
-      "email": "charleroi@jobconnect.be",
-      "manager": "Responsable Agence - Marc Delcroix"
-    },
-    "specializations": [
-      "Industrie",
-      "Manufacturing",
-      "Métallurgie",
-      "Maintenance"
+      "Industrie et Production",
+      "Logistique et Supply Chain",
+      "Santé et Secteur Médical",
+      "Commerce de Proximité",
+      "Hôtellerie-Restauration",
+      "Secteur Public"
     ],
     "services": [
-      "Recrutement industriel",
-      "Intérim technique",
-      "Formation métiers"
+      "Recrutement CDI/CDD",
+      "Intérim",
+      "Travail temporaire",
+      "Formation professionnelle",
+      "Bilan de compétences",
+      "Conseil en recrutement"
     ],
     "staff": {
-      "recruiters": 3,
-      "consultants": 1,
+      "recruiters": 5,
+      "consultants": 3,
       "administrative": 2
     },
     "openingHours": {
-      "monday": "07:00-16:00",
-      "tuesday": "07:00-16:00",
-      "wednesday": "07:00-16:00",
-      "thursday": "07:00-16:00",
-      "friday": "07:00-15:00"
+      "monday": "08:30-18:00",
+      "tuesday": "08:30-18:00",
+      "wednesday": "08:30-18:00",
+      "thursday": "08:30-18:00",
+      "friday": "08:30-17:00",
+      "saturday": "Fermé",
+      "sunday": "Fermé"
     },
-    "openedAt": "2022-06-12"
+    "openedAt": "2016-11-20T09:00:00Z"
   }
 ]
