@@ -1,0 +1,5 @@
+1 ) Je n'ai pas ajoutés de DTO pour les utilisateurs en général car on a déja les DTO pour les candidats et les employeurs se qui résume un USER 
+
+2 ) Dans ' candidat-dto.ts ' j'ai laissé cvUrl car même si on va implémenter une IA qui va gérer tout ca car la première fois si la personne implménte son cv en pdf il faudra le stocké quelque part pour que l'ia l'analyse quitte a le stocker temporairement
+
+3 ) 

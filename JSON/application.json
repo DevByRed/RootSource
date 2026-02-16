@@ -1,0 +1,158 @@
+[
+  {
+    "id": "app-001",
+    "candidateId": "cand-101",
+    "jobId": "job-201",
+    "status": "ACCEPTED",
+    "appliedAt": "2026-01-15T10:30:00Z",
+    "interviewDate": "2026-01-25T14:00:00Z",
+    "notes": "Excellent profil technique, bonnes compétences en communication",
+    "createdById": "user-001",
+    "updatedAt": "2026-02-01T09:15:00Z"
+  },
+  {
+    "id": "app-002",
+    "candidateId": "cand-102",
+    "jobId": "job-202",
+    "status": "PENDING",
+    "appliedAt": "2026-02-10T08:45:00Z",
+    "notes": "Candidature spontanée à examiner",
+    "createdById": "user-002",
+    "updatedAt": "2026-02-10T08:45:00Z"
+  },
+  {
+    "id": "app-003",
+    "candidateId": "cand-103",
+    "jobId": "job-203",
+    "status": "IN_REVIEW",
+    "appliedAt": "2026-02-05T14:20:00Z",
+    "notes": "Profil junior prometteur, nécessite formation",
+    "createdById": "user-003",
+    "updatedAt": "2026-02-08T11:30:00Z"
+  },
+  {
+    "id": "app-004",
+    "candidateId": "cand-104",
+    "jobId": "job-204",
+    "status": "INTERVIEW",
+    "appliedAt": "2026-01-28T16:00:00Z",
+    "interviewDate": "2026-02-18T10:00:00Z",
+    "notes": "Deuxième entretien avec le manager",
+    "createdById": "user-001",
+    "updatedAt": "2026-02-12T15:45:00Z"
+  },
+  {
+    "id": "app-005",
+    "candidateId": "cand-105",
+    "jobId": "job-205",
+    "status": "REJECTED",
+    "appliedAt": "2026-01-20T09:15:00Z",
+    "interviewDate": "2026-01-30T11:00:00Z",
+    "notes": "Manque d'expérience dans le secteur requis",
+    "createdById": "user-002",
+    "updatedAt": "2026-02-03T13:20:00Z"
+  },
+  {
+    "id": "app-006",
+    "candidateId": "cand-106",
+    "jobId": "job-206",
+    "status": "ACCEPTED",
+    "appliedAt": "2026-01-12T11:30:00Z",
+    "interviewDate": "2026-01-22T15:30:00Z",
+    "notes": "Profil senior parfait, disponible immédiatement",
+    "createdById": "user-004",
+    "updatedAt": "2026-01-28T10:00:00Z"
+  },
+  {
+    "id": "app-007",
+    "candidateId": "cand-107",
+    "jobId": "job-207",
+    "status": "IN_REVIEW",
+    "appliedAt": "2026-02-08T13:45:00Z",
+    "notes": "Vérification des références en cours",
+    "createdById": "user-003",
+    "updatedAt": "2026-02-14T09:30:00Z"
+  },
+  {
+    "id": "app-008",
+    "candidateId": "cand-108",
+    "jobId": "job-208",
+    "status": "INTERVIEW",
+    "appliedAt": "2026-02-01T10:00:00Z",
+    "interviewDate": "2026-02-20T09:00:00Z",
+    "notes": "Entretien technique prévu avec l'équipe",
+    "createdById": "user-001",
+    "updatedAt": "2026-02-15T14:00:00Z"
+  },
+  {
+    "id": "app-009",
+    "candidateId": "cand-109",
+    "jobId": "job-209",
+    "status": "PENDING",
+    "appliedAt": "2026-02-14T15:30:00Z",
+    "createdById": "user-002"
+  },
+  {
+    "id": "app-010",
+    "candidateId": "cand-110",
+    "jobId": "job-210",
+    "status": "REJECTED",
+    "appliedAt": "2026-01-18T08:00:00Z",
+    "interviewDate": "2026-01-28T14:30:00Z",
+    "notes": "Prétentions salariales trop élevées par rapport au poste",
+    "createdById": "user-004",
+    "updatedAt": "2026-02-02T16:45:00Z"
+  },
+  {
+    "id": "app-011",
+    "candidateId": "cand-111",
+    "jobId": "job-201",
+    "status": "IN_REVIEW",
+    "appliedAt": "2026-02-11T09:20:00Z",
+    "notes": "Candidature intéressante, expérience internationale",
+    "createdById": "user-003",
+    "updatedAt": "2026-02-13T10:15:00Z"
+  },
+  {
+    "id": "app-012",
+    "candidateId": "cand-112",
+    "jobId": "job-202",
+    "status": "INTERVIEW",
+    "appliedAt": "2026-02-03T12:10:00Z",
+    "interviewDate": "2026-02-19T16:00:00Z",
+    "notes": "Profil bilingue, expérience en startup",
+    "createdById": "user-001",
+    "updatedAt": "2026-02-16T11:00:00Z"
+  },
+  {
+    "id": "app-013",
+    "candidateId": "cand-113",
+    "jobId": "job-203",
+    "status": "ACCEPTED",
+    "appliedAt": "2026-01-25T14:45:00Z",
+    "interviewDate": "2026-02-05T10:30:00Z",
+    "notes": "Excellente culture d'entreprise fit, motivé",
+    "createdById": "user-002",
+    "updatedAt": "2026-02-09T15:30:00Z"
+  },
+  {
+    "id": "app-014",
+    "candidateId": "cand-114",
+    "jobId": "job-204",
+    "status": "PENDING",
+    "appliedAt": "2026-02-15T11:00:00Z",
+    "notes": "Candidature reçue via LinkedIn",
+    "createdById": "user-004",
+    "updatedAt": "2026-02-15T11:00:00Z"
+  },
+  {
+    "id": "app-015",
+    "candidateId": "cand-115",
+    "jobId": "job-205",
+    "status": "REJECTED",
+    "appliedAt": "2026-01-22T16:30:00Z",
+    "notes": "Profil ne correspond pas aux exigences minimales du poste",
+    "createdById": "user-003",
+    "updatedAt": "2026-01-26T09:00:00Z"
+  }
+]

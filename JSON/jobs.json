@@ -1,334 +1,702 @@
 [
   {
-    "id": "job-001",
-    "title": "Développeur Angular",
-    "description": "Développement d'applications web modernes avec Angular, TypeScript et HTML. Intégration API REST et gestion de projets client.",
+    "id": "job-201",
+    "title": "Responsable de Salle - Restaurant Gastronomique",
+    "description": "Le Grand Hôtel Paris recherche un(e) Responsable de Salle expérimenté(e) pour son restaurant gastronomique. Vous superviserez une équipe de 15 personnes et garantirez un service d'excellence à notre clientèle internationale.",
     "employerId": "emp-001",
     "location": {
-      "city": "Bruxelles"
+      "city": "Paris"
     },
     "contract": {
       "type": "CDI",
       "salaryRange": {
-        "min": 3000,
-        "max": 4500
+        "min": 35000,
+        "max": 45000
       }
     },
-    "requirements": ["Angular", "TypeScript", "HTML", "CSS"],
-    "experienceLevel": "Junior",
-    "status": "OPEN",
-    "createdAt": "2026-02-01"
+    "requirements": [
+      "Expérience de 5 ans minimum en restauration haut de gamme",
+      "Management d'équipe",
+      "Maîtrise de l'anglais courant",
+      "Connaissance des vins",
+      "Sens du service client"
+    ],
+    "experienceLevel": "Senior",
+    "status": "FILLED",
+    "createdAt": "2025-11-20T10:00:00Z",
+    "createdBy": {
+      "id": "user-001",
+      "firstName": "Pierre",
+      "lastName": "Fontaine",
+      "email": "p.fontaine@agence-recrutement.fr",
+      "phoneNumber": "+33 6 12 34 56 78",
+      "role": "SUPER_ADMIN",
+      "createdAt": "2020-01-15T09:00:00Z"
+    }
   },
   {
-    "id": "job-002",
-    "title": "Responsable Logistique",
-    "description": "Gestion des flux logistiques internationaux, optimisation des coûts transport et coordination des équipes warehouse.",
+    "id": "job-202",
+    "title": "Vendeur(se) en Grande Distribution - Rayon Textile",
+    "description": "Carrefour Lyon Confluence recrute un(e) vendeur(se) pour son rayon textile. Vous conseillerez la clientèle, effectuerez la mise en rayon et participerez à l'inventaire.",
     "employerId": "emp-002",
     "location": {
-      "city": "Anvers"
+      "city": "Lyon"
     },
     "contract": {
       "type": "CDI",
       "salaryRange": {
-        "min": 4500,
-        "max": 6500
-      }
-    },
-    "requirements": ["Logistique", "SAP", "Management", "Anglais"],
-    "experienceLevel": "Senior",
-    "status": "OPEN",
-    "createdAt": "2026-02-02"
-  },
-  {
-    "id": "job-003",
-    "title": "Développeur Full Stack React/Node.js",
-    "description": "Développement d'applications web complètes avec React frontend et Node.js backend. Déploiement Docker en environnement cloud.",
-    "employerId": "emp-001",
-    "location": {
-      "city": "Bruxelles"
-    },
-    "contract": {
-      "type": "CDI",
-      "salaryRange": {
-        "min": 3800,
-        "max": 5200
-      }
-    },
-    "requirements": ["React", "Node.js", "Docker", "Python"],
-    "experienceLevel": "Intermédiaire",
-    "status": "OPEN",
-    "createdAt": "2026-02-03"
-  },
-  {
-    "id": "job-004",
-    "title": "Spécialiste Marketing Digital",
-    "description": "Gestion complète des campagnes marketing digital : SEO, Google Analytics, réseaux sociaux et stratégies e-commerce.",
-    "employerId": "emp-008",
-    "location": {
-      "city": "Bruxelles"
-    },
-    "contract": {
-      "type": "CDI",
-      "salaryRange": {
-        "min": 2800,
-        "max": 3800
+        "min": 22000,
+        "max": 26000
       }
     },
     "requirements": [
-      "SEO",
-      "Google Analytics",
-      "Social Media",
-      "Marketing Digital"
+      "Expérience en vente souhaitée",
+      "Excellent relationnel",
+      "Sens du merchandising",
+      "Disponibilité samedi",
+      "Dynamisme"
     ],
-    "experienceLevel": "Junior",
+    "experienceLevel": "Interm�diaire",
     "status": "OPEN",
-    "createdAt": "2026-02-04"
+    "createdAt": "2026-01-28T09:30:00Z",
+    "createdBy": {
+      "id": "user-002",
+      "firstName": "Marie",
+      "lastName": "Leclerc",
+      "email": "m.leclerc@agence-recrutement.fr",
+      "phoneNumber": "+33 6 23 45 67 89",
+      "role": "ADMIN",
+      "createdAt": "2020-03-20T10:30:00Z"
+    }
   },
   {
-    "id": "job-005",
-    "title": "Architecte Java Senior",
-    "description": "Conception et développement d'architectures microservices avec Spring Boot, déploiement AWS et Kubernetes.",
-    "employerId": "emp-001",
-    "location": {
-      "city": "Bruxelles"
-    },
-    "contract": {
-      "type": "Freelance",
-      "salaryRange": {
-        "min": 600,
-        "max": 800
-      }
-    },
-    "requirements": [
-      "Java",
-      "Spring Boot",
-      "Microservices",
-      "AWS",
-      "Kubernetes"
-    ],
-    "experienceLevel": "Expert",
-    "status": "OPEN",
-    "createdAt": "2026-02-05"
-  },
-  {
-    "id": "job-006",
-    "title": "Comptable Senior",
-    "description": "Gestion comptabilité générale, élaboration des comptes annuels, audit interne et maîtrise SAP Finance.",
+    "id": "job-203",
+    "title": "Technicien de Maintenance Industrielle H/F",
+    "description": "AutoMéca Services recherche un technicien de maintenance pour intervenir sur nos lignes de production automobile. Poste en 2x8 avec astreintes.",
     "employerId": "emp-003",
     "location": {
-      "city": "Bruxelles"
+      "city": "Toulouse"
     },
     "contract": {
       "type": "CDI",
       "salaryRange": {
-        "min": 4000,
-        "max": 5500
-      }
-    },
-    "requirements": ["Comptabilité", "Excel", "SAP Finance", "Audit"],
-    "experienceLevel": "Senior",
-    "status": "OPEN",
-    "createdAt": "2026-02-06"
-  },
-  {
-    "id": "job-007",
-    "title": "Commercial B2B",
-    "description": "Développement portefeuille client entreprises, négociation commerciale et gestion CRM. Secteur immobilier et vente.",
-    "employerId": "emp-010",
-    "location": {
-      "city": "Uccle"
-    },
-    "contract": {
-      "type": "CDI",
-      "salaryRange": {
-        "min": 3200,
-        "max": 4800
-      }
-    },
-    "requirements": ["Vente", "CRM", "Négociation", "B2B"],
-    "experienceLevel": "Intermédiaire",
-    "status": "OPEN",
-    "createdAt": "2026-02-07"
-  },
-  {
-    "id": "job-008",
-    "title": "Designer UX/UI",
-    "description": "Création d'interfaces utilisateur modernes avec Figma, design graphique et Adobe Creative Suite pour projets web/mobile.",
-    "employerId": "emp-008",
-    "location": {
-      "city": "Bruxelles"
-    },
-    "contract": {
-      "type": "Freelance",
-      "salaryRange": {
-        "min": 400,
-        "max": 600
+        "min": 28000,
+        "max": 35000
       }
     },
     "requirements": [
-      "Figma",
-      "Adobe Creative Suite",
-      "UX/UI",
-      "Design Graphique"
+      "BTS Maintenance ou équivalent",
+      "Électricité industrielle",
+      "Mécanique",
+      "Habilitations électriques",
+      "Autonomie et réactivité"
     ],
-    "experienceLevel": "Junior",
+    "experienceLevel": "Interm�diaire",
     "status": "OPEN",
-    "createdAt": "2026-02-08"
+    "createdAt": "2026-01-15T14:20:00Z",
+    "createdBy": {
+      "id": "user-003",
+      "firstName": "Julie",
+      "lastName": "Bernard",
+      "email": "j.bernard@agence-recrutement.fr",
+      "phoneNumber": "+33 6 34 56 78 90",
+      "role": "RECRUITER",
+      "createdAt": "2021-06-10T08:45:00Z"
+    }
   },
   {
-    "id": "job-009",
-    "title": "Technicien Maintenance Industrielle",
-    "description": "Maintenance préventive et curative des équipements industriels, électricité industrielle et systèmes d'automation.",
-    "employerId": "emp-007",
-    "location": {
-      "city": "Charleroi"
-    },
-    "contract": {
-      "type": "CDI",
-      "salaryRange": {
-        "min": 3500,
-        "max": 4500
-      }
-    },
-    "requirements": ["Maintenance", "Électricité", "Automation", "Mécanique"],
-    "experienceLevel": "Expert",
-    "status": "OPEN",
-    "createdAt": "2026-02-09"
-  },
-  {
-    "id": "job-010",
-    "title": "Responsable Ressources Humaines",
-    "description": "Gestion complète RH : recrutement, formation, SIRH et développement des talents dans un environnement de conseil.",
-    "employerId": "emp-010",
-    "location": {
-      "city": "Uccle"
-    },
-    "contract": {
-      "type": "CDI",
-      "salaryRange": {
-        "min": 4200,
-        "max": 5800
-      }
-    },
-    "requirements": ["Ressources Humaines", "Recrutement", "SIRH", "Formation"],
-    "experienceLevel": "Intermédiaire",
-    "status": "OPEN",
-    "createdAt": "2026-02-10"
-  },
-  {
-    "id": "job-011",
-    "title": "Chef de Projet Agile",
-    "description": "Pilotage projets IT en méthode Agile/Scrum, gestion équipes développement et coordination avec les parties prenantes.",
-    "employerId": "emp-001",
-    "location": {
-      "city": "Bruxelles"
-    },
-    "contract": {
-      "type": "CDI",
-      "salaryRange": {
-        "min": 5000,
-        "max": 6500
-      }
-    },
-    "requirements": [
-      "Gestion de Projet",
-      "Agile",
-      "Scrum",
-      "JIRA",
-      "Leadership"
-    ],
-    "experienceLevel": "Senior",
-    "status": "OPEN",
-    "createdAt": "2026-02-11"
-  },
-  {
-    "id": "job-012",
-    "title": "Infirmier/ère en Gériatrie",
-    "description": "Soins spécialisés en gériatrie, suivi patients âgés et coordination avec équipes médicales. Possibilité urgences.",
+    "id": "job-204",
+    "title": "Infirmier(ère) Diplômé(e) d'État - Service Urgences",
+    "description": "La Clinique Saint-Michel recrute un(e) IDE pour son service des urgences. Travail en équipe dans un environnement moderne et bien équipé.",
     "employerId": "emp-004",
     "location": {
-      "city": "Liège"
+      "city": "Montpellier"
     },
     "contract": {
       "type": "CDI",
       "salaryRange": {
-        "min": 2800,
-        "max": 3500
+        "min": 28000,
+        "max": 34000
       }
     },
-    "requirements": ["Soins", "Gériatrie", "Urgences", "Diplôme infirmier"],
-    "experienceLevel": "Junior",
+    "requirements": [
+      "Diplôme d'État d'Infirmier",
+      "AFGSU à jour",
+      "Expérience aux urgences souhaitée",
+      "Gestion du stress",
+      "Travail en équipe"
+    ],
+    "experienceLevel": "Interm�diaire",
     "status": "OPEN",
-    "createdAt": "2026-02-12"
+    "createdAt": "2026-01-20T11:00:00Z",
+    "createdBy": {
+      "id": "user-004",
+      "firstName": "Maxime",
+      "lastName": "Durant",
+      "email": "m.durant@agence-recrutement.fr",
+      "phoneNumber": "+33 6 45 67 89 01",
+      "role": "RECRUITER",
+      "createdAt": "2021-09-15T09:00:00Z"
+    }
   },
   {
-    "id": "job-013",
-    "title": "Chef de Cuisine",
-    "description": "Direction cuisine restaurant gastronomique, création menus, respect normes HACCP et management équipe culinaire.",
+    "id": "job-205",
+    "title": "Conducteur Poids Lourd Longue Distance H/F",
+    "description": "TransLog France recrute des conducteurs PL pour des missions longue distance France et Europe. Véhicules récents, repos respectés.",
+    "employerId": "emp-005",
+    "location": {
+      "city": "Lille"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 26000,
+        "max": 32000
+      }
+    },
+    "requirements": [
+      "Permis CE obligatoire",
+      "FIMO/FCO à jour",
+      "Disponibilité pour grands déplacements",
+      "Ponctualité",
+      "Bonne présentation"
+    ],
+    "experienceLevel": "Senior",
+    "status": "CLOSED",
+    "createdAt": "2025-12-10T08:30:00Z",
+    "createdBy": {
+      "id": "user-002",
+      "firstName": "Marie",
+      "lastName": "Leclerc",
+      "email": "m.leclerc@agence-recrutement.fr",
+      "phoneNumber": "+33 6 23 45 67 89",
+      "role": "ADMIN",
+      "createdAt": "2020-03-20T10:30:00Z"
+    }
+  },
+  {
+    "id": "job-206",
+    "title": "Cuisinier(ère) - Brasserie Hôtel",
+    "description": "Le Grand Hôtel Paris recherche un(e) cuisinier(ère) pour sa brasserie. Vous travaillerez au sein d'une brigade de 8 personnes en cuisine traditionnelle française.",
+    "employerId": "emp-001",
+    "location": {
+      "city": "Paris"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 24000,
+        "max": 30000
+      }
+    },
+    "requirements": [
+      "CAP Cuisine minimum",
+      "Expérience en cuisine traditionnelle",
+      "Hygiène HACCP",
+      "Travail en équipe",
+      "Gestion du stress"
+    ],
+    "experienceLevel": "Junior",
+    "status": "FILLED",
+    "createdAt": "2025-12-20T10:00:00Z",
+    "createdBy": {
+      "id": "user-001",
+      "firstName": "Pierre",
+      "lastName": "Fontaine",
+      "email": "p.fontaine@agence-recrutement.fr",
+      "phoneNumber": "+33 6 12 34 56 78",
+      "role": "SUPER_ADMIN",
+      "createdAt": "2020-01-15T09:00:00Z"
+    }
+  },
+  {
+    "id": "job-207",
+    "title": "Commis de Cuisine H/F",
+    "description": "Brasserie Le Comptoir recherche un commis de cuisine pour renforcer sa brigade. Formation assurée en interne. Ambiance conviviale.",
     "employerId": "emp-006",
     "location": {
-      "city": "Bruges"
+      "city": "Bordeaux"
     },
     "contract": {
       "type": "CDI",
       "salaryRange": {
-        "min": 4000,
-        "max": 5200
-      }
-    },
-    "requirements": ["Cuisine", "HACCP", "Management", "Menu Development"],
-    "experienceLevel": "Expert",
-    "status": "OPEN",
-    "createdAt": "2026-02-13"
-  },
-  {
-    "id": "job-014",
-    "title": "Chargé de Communication",
-    "description": "Gestion communication externe, relations publiques, organisation événements et animation réseaux sociaux corporate.",
-    "employerId": "emp-008",
-    "location": {
-      "city": "Bruxelles"
-    },
-    "contract": {
-      "type": "Freelance",
-      "salaryRange": {
-        "min": 350,
-        "max": 500
+        "min": 20000,
+        "max": 24000
       }
     },
     "requirements": [
-      "Communication",
-      "Relations Publiques",
-      "Événementiel",
-      "Réseaux Sociaux"
+      "CAP Cuisine ou débutant motivé",
+      "Passion pour la gastronomie",
+      "Respect des normes d'hygiène",
+      "Esprit d'équipe",
+      "Ponctualité"
     ],
-    "experienceLevel": "Intermédiaire",
+    "experienceLevel": "Junior",
     "status": "OPEN",
-    "createdAt": "2026-02-14"
+    "createdAt": "2026-01-22T13:00:00Z",
+    "createdBy": {
+      "id": "user-003",
+      "firstName": "Julie",
+      "lastName": "Bernard",
+      "email": "j.bernard@agence-recrutement.fr",
+      "phoneNumber": "+33 6 34 56 78 90",
+      "role": "RECRUITER",
+      "createdAt": "2021-06-10T08:45:00Z"
+    }
   },
   {
-    "id": "job-015",
-    "title": "Électricien Industriel",
-    "description": "Installation et maintenance systèmes électriques industriels, domotique et certifications électriques.",
-    "employerId": "emp-009",
+    "id": "job-208",
+    "title": "Juriste en Droit Social H/F",
+    "description": "Cabinet Juridique Associés recherche un(e) juriste spécialisé(e) en droit social pour rejoindre son équipe. Dossiers variés et clientèle haut de gamme.",
+    "employerId": "emp-007",
     "location": {
-      "city": "Namur"
+      "city": "Paris"
     },
     "contract": {
       "type": "CDI",
       "salaryRange": {
-        "min": 3200,
-        "max": 4200
+        "min": 40000,
+        "max": 55000
       }
     },
     "requirements": [
-      "Électricité",
-      "Domotique",
-      "Maintenance",
-      "Certification"
+      "Master 2 Droit Social",
+      "Expérience en cabinet 3 ans minimum",
+      "Excellente rédaction juridique",
+      "Conseil aux entreprises",
+      "Anglais professionnel"
     ],
     "experienceLevel": "Senior",
     "status": "OPEN",
-    "createdAt": "2026-02-13"
+    "createdAt": "2026-01-25T15:00:00Z",
+    "createdBy": {
+      "id": "user-001",
+      "firstName": "Pierre",
+      "lastName": "Fontaine",
+      "email": "p.fontaine@agence-recrutement.fr",
+      "phoneNumber": "+33 6 12 34 56 78",
+      "role": "SUPER_ADMIN",
+      "createdAt": "2020-01-15T09:00:00Z"
+    }
+  },
+  {
+    "id": "job-209",
+    "title": "Préparateur de Commandes - Entrepôt Logistique",
+    "description": "TransLog France recrute des préparateurs de commandes pour son entrepôt. CACES 1-3-5 obligatoires. Travail en équipe avec objectifs de productivité.",
+    "employerId": "emp-005",
+    "location": {
+      "city": "Lille"
+    },
+    "contract": {
+      "type": "Int�rim",
+      "salaryRange": {
+        "min": 21000,
+        "max": 24000
+      }
+    },
+    "requirements": [
+      "CACES 1-3-5 à jour",
+      "Expérience en entrepôt",
+      "Respect des procédures",
+      "Ponctualité",
+      "Travail en équipe"
+    ],
+    "experienceLevel": "Junior",
+    "status": "OPEN",
+    "createdAt": "2026-02-05T09:00:00Z",
+    "createdBy": {
+      "id": "user-002",
+      "firstName": "Marie",
+      "lastName": "Leclerc",
+      "email": "m.leclerc@agence-recrutement.fr",
+      "phoneNumber": "+33 6 23 45 67 89",
+      "role": "ADMIN",
+      "createdAt": "2020-03-20T10:30:00Z"
+    }
+  },
+  {
+    "id": "job-210",
+    "title": "Responsable de Rayon Fruits et Légumes",
+    "description": "Carrefour Lyon recherche un responsable de rayon Fruits et Légumes. Vous gérerez les commandes, le merchandising et animerez une équipe de 3 personnes.",
+    "employerId": "emp-002",
+    "location": {
+      "city": "Lyon"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 26000,
+        "max": 32000
+      }
+    },
+    "requirements": [
+      "Expérience en grande distribution",
+      "Management d'équipe",
+      "Gestion des stocks",
+      "Sens commercial",
+      "Disponibilité samedi"
+    ],
+    "experienceLevel": "Interm�diaire",
+    "status": "PENDING",
+    "createdAt": "2026-02-08T10:30:00Z",
+    "createdBy": {
+      "id": "user-004",
+      "firstName": "Maxime",
+      "lastName": "Durant",
+      "email": "m.durant@agence-recrutement.fr",
+      "phoneNumber": "+33 6 45 67 89 01",
+      "role": "RECRUITER",
+      "createdAt": "2021-09-15T09:00:00Z"
+    }
+  },
+  {
+    "id": "job-211",
+    "title": "Développeur Full-Stack JavaScript H/F",
+    "description": "TechInnovate Solutions recherche un développeur full-stack pour participer au développement de nos applications web. Stack moderne : React, Node.js, MongoDB.",
+    "employerId": "emp-008",
+    "location": {
+      "city": "Sophia Antipolis"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 38000,
+        "max": 50000
+      }
+    },
+    "requirements": [
+      "JavaScript / TypeScript",
+      "React et Node.js",
+      "API REST",
+      "Git",
+      "Méthodes Agile"
+    ],
+    "experienceLevel": "Interm�diaire",
+    "status": "OPEN",
+    "createdAt": "2026-01-18T14:00:00Z",
+    "createdBy": {
+      "id": "user-001",
+      "firstName": "Pierre",
+      "lastName": "Fontaine",
+      "email": "p.fontaine@agence-recrutement.fr",
+      "phoneNumber": "+33 6 12 34 56 78",
+      "role": "SUPER_ADMIN",
+      "createdAt": "2020-01-15T09:00:00Z"
+    }
+  },
+  {
+    "id": "job-212",
+    "title": "Coiffeur(se) Confirmé(e) H/F",
+    "description": "Coiffure Élégance, salon haut de gamme, recherche un(e) coiffeur(se) confirmé(e). Clientèle fidèle et produits de qualité. Commissions attractives.",
+    "employerId": "emp-009",
+    "location": {
+      "city": "Rennes"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 22000,
+        "max": 30000
+      }
+    },
+    "requirements": [
+      "BP Coiffure",
+      "Expérience 3 ans minimum",
+      "Maîtrise des techniques de coloration",
+      "Conseil clientèle",
+      "Présentation soignée"
+    ],
+    "experienceLevel": "Interm�diaire",
+    "status": "OPEN",
+    "createdAt": "2026-01-30T11:00:00Z",
+    "createdBy": {
+      "id": "user-003",
+      "firstName": "Julie",
+      "lastName": "Bernard",
+      "email": "j.bernard@agence-recrutement.fr",
+      "phoneNumber": "+33 6 34 56 78 90",
+      "role": "RECRUITER",
+      "createdAt": "2021-06-10T08:45:00Z"
+    }
+  },
+  {
+    "id": "job-213",
+    "title": "Animateur(trice) BAFA - Centre de Loisirs",
+    "description": "Centre Loisirs Aventure recrute des animateurs BAFA pour les vacances scolaires et mercredis. Encadrement d'enfants 6-12 ans avec activités variées.",
+    "employerId": "emp-010",
+    "location": {
+      "city": "Nantes"
+    },
+    "contract": {
+      "type": "CDD",
+      "salaryRange": {
+        "min": 18000,
+        "max": 21000
+      }
+    },
+    "requirements": [
+      "BAFA complet obligatoire",
+      "PSC1 souhaité",
+      "Expérience en animation",
+      "Créativité",
+      "Sens des responsabilités"
+    ],
+    "experienceLevel": "Junior",
+    "status": "OPEN",
+    "createdAt": "2026-02-01T16:30:00Z",
+    "createdBy": {
+      "id": "user-005",
+      "firstName": "Sophie",
+      "lastName": "Rousseau",
+      "email": "s.rousseau@agence-recrutement.fr",
+      "phoneNumber": "+33 6 56 78 90 12",
+      "role": "RECRUITER",
+      "createdAt": "2022-02-01T10:15:00Z"
+    }
+  },
+  {
+    "id": "job-214",
+    "title": "Chargé(e) de Marketing Digital H/F",
+    "description": "MarketPro Agency recherche un(e) chargé(e) de marketing digital pour accompagner nos clients. Gestion de campagnes SEO/SEA, réseaux sociaux et création de contenu.",
+    "employerId": "emp-011",
+    "location": {
+      "city": "Paris"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 35000,
+        "max": 45000
+      }
+    },
+    "requirements": [
+      "Formation marketing digital",
+      "SEO/SEA",
+      "Google Analytics",
+      "Réseaux sociaux",
+      "Créativité et autonomie"
+    ],
+    "experienceLevel": "Interm�diaire",
+    "status": "OPEN",
+    "createdAt": "2026-01-12T10:00:00Z",
+    "createdBy": {
+      "id": "user-006",
+      "firstName": "Thomas",
+      "lastName": "Moreau",
+      "email": "t.moreau@agence-recrutement.fr",
+      "phoneNumber": "+33 6 67 89 01 23",
+      "role": "MARKETING",
+      "createdAt": "2022-05-10T11:00:00Z"
+    }
+  },
+  {
+    "id": "job-215",
+    "title": "Collaborateur Comptable H/F",
+    "description": "Compta Expert & Associés recherche un collaborateur comptable pour la gestion d'un portefeuille de clients PME. Révision, bilan et liasse fiscale.",
+    "employerId": "emp-012",
+    "location": {
+      "city": "Lyon"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 28000,
+        "max": 38000
+      }
+    },
+    "requirements": [
+      "BTS/DCG Comptabilité",
+      "Expérience en cabinet",
+      "Maîtrise logiciels comptables",
+      "Rigueur et organisation",
+      "Autonomie"
+    ],
+    "experienceLevel": "Interm�diaire",
+    "status": "OPEN",
+    "createdAt": "2026-01-20T14:30:00Z",
+    "createdBy": {
+      "id": "user-004",
+      "firstName": "Maxime",
+      "lastName": "Durant",
+      "email": "m.durant@agence-recrutement.fr",
+      "phoneNumber": "+33 6 45 67 89 01",
+      "role": "RECRUITER",
+      "createdAt": "2021-09-15T09:00:00Z"
+    }
+  },
+  {
+    "id": "job-216",
+    "title": "Conseiller(ère) en Recrutement H/F",
+    "description": "Le Cadre Pro, agence d'intérim, recrute un(e) conseiller(ère) en recrutement. Vous développerez votre portefeuille clients et recruterez sur tous secteurs.",
+    "employerId": "emp-013",
+    "location": {
+      "city": "Marseille"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 26000,
+        "max": 40000
+      }
+    },
+    "requirements": [
+      "Expérience en recrutement souhaitée",
+      "Sens commercial",
+      "Relationnel développé",
+      "Permis B",
+      "Dynamisme et persévérance"
+    ],
+    "experienceLevel": "Interm�diaire",
+    "status": "OPEN",
+    "createdAt": "2026-02-10T09:00:00Z",
+    "createdBy": {
+      "id": "user-008",
+      "firstName": "Lucas",
+      "lastName": "Garcia",
+      "email": "l.garcia@agence-recrutement.fr",
+      "phoneNumber": "+33 6 89 01 23 45",
+      "role": "RECRUITER",
+      "createdAt": "2023-01-15T08:00:00Z"
+    }
+  },
+  {
+    "id": "job-217",
+    "title": "Vendeur(se) en Magasin Bio H/F",
+    "description": "Fresh Market Bio ouvre un nouveau magasin et recrute des vendeurs passionnés par le bio. Conseil clientèle et mise en rayon de produits biologiques.",
+    "employerId": "emp-014",
+    "location": {
+      "city": "Toulouse"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 21000,
+        "max": 25000
+      }
+    },
+    "requirements": [
+      "Passion pour le bio et l'écologie",
+      "Sens du conseil client",
+      "Dynamisme",
+      "Disponibilité samedi",
+      "Expérience en vente appréciée"
+    ],
+    "experienceLevel": "Junior",
+    "status": "OPEN",
+    "createdAt": "2026-02-03T11:30:00Z",
+    "createdBy": {
+      "id": "user-005",
+      "firstName": "Sophie",
+      "lastName": "Rousseau",
+      "email": "s.rousseau@agence-recrutement.fr",
+      "phoneNumber": "+33 6 56 78 90 12",
+      "role": "RECRUITER",
+      "createdAt": "2022-02-01T10:15:00Z"
+    }
+  },
+  {
+    "id": "job-218",
+    "title": "Secrétaire Médicale H/F",
+    "description": "CareAdmin Services recrute une secrétaire médicale pour accompagner des professionnels de santé. Accueil patients, gestion administrative et téléphonique.",
+    "employerId": "emp-015",
+    "location": {
+      "city": "Strasbourg"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 22000,
+        "max": 26000
+      }
+    },
+    "requirements": [
+      "Formation secrétariat médical",
+      "Maîtrise outils bureautiques",
+      "Accueil téléphonique",
+      "Discrétion et rigueur",
+      "Sens du service"
+    ],
+    "experienceLevel": "Junior",
+    "status": "PENDING",
+    "createdAt": "2026-01-26T13:00:00Z",
+    "createdBy": {
+      "id": "user-003",
+      "firstName": "Julie",
+      "lastName": "Bernard",
+      "email": "j.bernard@agence-recrutement.fr",
+      "phoneNumber": "+33 6 34 56 78 90",
+      "role": "RECRUITER",
+      "createdAt": "2021-06-10T08:45:00Z"
+    }
+  },
+  {
+    "id": "job-219",
+    "title": "Responsable Ressources Humaines H/F",
+    "description": "Groupe industriel recherche un(e) RRH pour piloter l'ensemble de la fonction RH : recrutement, paie, relations sociales et développement RH.",
+    "employerId": "emp-003",
+    "location": {
+      "city": "Toulouse"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 45000,
+        "max": 60000
+      }
+    },
+    "requirements": [
+      "Master RH ou équivalent",
+      "Expérience 7 ans en RH",
+      "Management d'équipe",
+      "Droit du travail",
+      "Relations sociales"
+    ],
+    "experienceLevel": "Senior",
+    "status": "OPEN",
+    "createdAt": "2026-01-10T10:00:00Z",
+    "createdBy": {
+      "id": "user-001",
+      "firstName": "Pierre",
+      "lastName": "Fontaine",
+      "email": "p.fontaine@agence-recrutement.fr",
+      "phoneNumber": "+33 6 12 34 56 78",
+      "role": "SUPER_ADMIN",
+      "createdAt": "2020-01-15T09:00:00Z"
+    }
+  },
+  {
+    "id": "job-220",
+    "title": "Assistant(e) Administratif(ve) H/F",
+    "description": "Cabinet d'avocats recherche un(e) assistant(e) pour assister l'équipe dans les tâches administratives : suivi dossiers, accueil, facturation,archivage.",
+    "employerId": "emp-007",
+    "location": {
+      "city": "Paris"
+    },
+    "contract": {
+      "type": "CDI",
+      "salaryRange": {
+        "min": 24000,
+        "max": 28000
+      }
+    },
+    "requirements": [
+      "Bac+2 Assistanat ou équivalent",
+      "Maîtrise Pack Office",
+      "Organisation et rigueur",
+      "Discrétion",
+      "Sens du service"
+    ],
+    "experienceLevel": "Junior",
+    "status": "OPEN",
+    "createdAt": "2026-02-12T09:30:00Z",
+    "createdBy": {
+      "id": "user-009",
+      "firstName": "Emma",
+      "lastName": "Lefebvre",
+      "email": "e.lefebvre@agence-recrutement.fr",
+      "phoneNumber": "+33 6 90 12 34 56",
+      "role": "SUPPORT",
+      "createdAt": "2023-04-10T10:45:00Z"
+    }
   }
 ]

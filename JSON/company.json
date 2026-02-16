@@ -1,0 +1,232 @@
+[
+  {
+    "id": "comp-001",
+    "name": "Le Grand Hôtel Paris",
+    "vatNumber": "FR12345678901",
+    "sector": "Hôtellerie",
+    "address": {
+      "street": "15 avenue des Champs-Élysées",
+      "city": "Paris",
+      "postalCode": "75008",
+      "country": "France"
+    },
+    "contactPerson": {
+      "firstName": "Catherine",
+      "lastName": "Moreau",
+      "email": "c.moreau@grandhotel-paris.fr",
+      "phone": "+33 1 45 67 89 01"
+    },
+    "email": "recrutement@grandhotel-paris.fr",
+    "phone": "+33 1 45 67 89 00",
+    "website": "https://www.grandhotel-paris.fr",
+    "isActive": true,
+    "createdAt": "2024-06-15T10:00:00Z"
+  },
+  {
+    "id": "comp-002",
+    "name": "Carrefour Lyon Confluence",
+    "vatNumber": "FR98765432109",
+    "sector": "Grande distribution",
+    "address": {
+      "street": "112 cours Charlemagne",
+      "city": "Lyon",
+      "postalCode": "69002",
+      "country": "France"
+    },
+    "contactPerson": {
+      "firstName": "Marc",
+      "lastName": "Dubois",
+      "email": "marc.dubois@carrefour.fr",
+      "phone": "+33 4 78 56 34 12"
+    },
+    "email": "rh.lyon@carrefour.fr",
+    "phone": "+33 4 78 56 34 00",
+    "website": "https://www.carrefour.fr",
+    "isActive": true,
+    "createdAt": "2023-11-20T14:30:00Z"
+  },
+  {
+    "id": "comp-003",
+    "name": "AutoMéca Services",
+    "vatNumber": "FR55566677788",
+    "sector": "Industrie automobile",
+    "address": {
+      "street": "Zone Industrielle Nord",
+      "city": "Toulouse",
+      "postalCode": "31200",
+      "country": "France"
+    },
+    "contactPerson": {
+      "firstName": "Philippe",
+      "lastName": "Rousseau",
+      "email": "p.rousseau@automeca.fr",
+      "phone": "+33 5 61 23 45 67"
+    },
+    "email": "contact@automeca-services.fr",
+    "phone": "+33 5 61 23 45 60",
+    "website": "https://www.automeca-services.fr",
+    "isActive": true,
+    "createdAt": "2024-01-10T09:15:00Z"
+  },
+  {
+    "id": "comp-004",
+    "name": "Clinique Saint-Michel",
+    "vatNumber": "FR44455566677",
+    "sector": "Santé",
+    "address": {
+      "street": "88 rue de la Santé",
+      "city": "Montpellier",
+      "postalCode": "34000",
+      "country": "France"
+    },
+    "contactPerson": {
+      "firstName": "Dr. Anne",
+      "lastName": "Lefebvre",
+      "email": "a.lefebvre@clinique-stmichel.fr",
+      "phone": "+33 4 67 89 12 34"
+    },
+    "email": "rh@clinique-stmichel.fr",
+    "phone": "+33 4 67 89 12 00",
+    "website": "https://www.clinique-stmichel.fr",
+    "isActive": true,
+    "createdAt": "2023-09-05T11:00:00Z"
+  },
+  {
+    "id": "comp-005",
+    "name": "TransLog France",
+    "vatNumber": "FR33344455566",
+    "sector": "Transport et Logistique",
+    "address": {
+      "street": "45 rue des Entrepôts",
+      "city": "Lille",
+      "postalCode": "59000",
+      "country": "France"
+    },
+    "contactPerson": {
+      "firstName": "Jean",
+      "lastName": "Martin",
+      "email": "j.martin@translog.fr",
+      "phone": "+33 3 20 45 67 89"
+    },
+    "email": "recrutement@translog-france.fr",
+    "phone": "+33 3 20 45 67 00",
+    "website": "https://www.translog-france.fr",
+    "isActive": true,
+    "createdAt": "2024-03-22T08:45:00Z"
+  },
+  {
+    "id": "comp-006",
+    "name": "Brasserie Le Comptoir",
+    "vatNumber": "FR22233344455",
+    "sector": "Restauration",
+    "address": {
+      "street": "34 place de la République",
+      "city": "Bordeaux",
+      "postalCode": "33000",
+      "country": "France"
+    },
+    "contactPerson": {
+      "firstName": "Pierre",
+      "lastName": "Gauthier",
+      "email": "p.gauthier@lecomptoir.fr",
+      "phone": "+33 5 56 78 90 12"
+    },
+    "email": "contact@brasserie-lecomptoir.fr",
+    "phone": "+33 5 56 78 90 00",
+    "website": "https://www.brasserie-lecomptoir.fr",
+    "isActive": true,
+    "createdAt": "2024-07-18T16:20:00Z"
+  },
+  {
+    "id": "comp-007",
+    "name": "Cabinet Juridique Associés",
+    "vatNumber": "FR11122233344",
+    "sector": "Services juridiques",
+    "address": {
+      "street": "56 boulevard Saint-Germain",
+      "city": "Paris",
+      "postalCode": "75005",
+      "country": "France"
+    },
+    "contactPerson": {
+      "firstName": "Maître Sophie",
+      "lastName": "Blanchard",
+      "email": "s.blanchard@cja-avocats.fr",
+      "phone": "+33 1 43 21 56 78"
+    },
+    "email": "cabinet@cja-avocats.fr",
+    "phone": "+33 1 43 21 56 00",
+    "website": "https://www.cja-avocats.fr",
+    "isActive": true,
+    "createdAt": "2023-12-08T13:30:00Z"
+  },
+  {
+    "id": "comp-008",
+    "name": "TechInnovate Solutions",
+    "vatNumber": "FR99988877766",
+    "sector": "Technologies de l'information",
+    "address": {
+      "street": "25 rue de la Silicon Valley",
+      "city": "Sophia Antipolis",
+      "postalCode": "06560",
+      "country": "France"
+    },
+    "contactPerson": {
+      "firstName": "Émilie",
+      "lastName": "Chen",
+      "email": "e.chen@techinnovate.fr",
+      "phone": "+33 4 93 00 12 34"
+    },
+    "email": "hr@techinnovate-solutions.fr",
+    "phone": "+33 4 93 00 12 00",
+    "website": "https://www.techinnovate-solutions.fr",
+    "isActive": true,
+    "createdAt": "2024-02-14T10:00:00Z"
+  },
+  {
+    "id": "comp-009",
+    "name": "Coiffure Élégance",
+    "vatNumber": "FR77788899900",
+    "sector": "Services esthétiques",
+    "address": {
+      "street": "12 rue de la Mode",
+      "city": "Rennes",
+      "postalCode": "35000",
+      "country": "France"
+    },
+    "contactPerson": {
+      "firstName": "Isabelle",
+      "lastName": "Petit",
+      "email": "i.petit@coiffure-elegance.fr",
+      "phone": "+33 2 99 12 34 56"
+    },
+    "email": "contact@coiffure-elegance.fr",
+    "phone": "+33 2 99 12 34 50",
+    "website": "https://www.coiffure-elegance.fr",
+    "isActive": true,
+    "createdAt": "2024-05-03T14:15:00Z"
+  },
+  {
+    "id": "comp-010",
+    "name": "Centre Loisirs Aventure",
+    "vatNumber": "FR66677788899",
+    "sector": "Animation et Loisirs",
+    "address": {
+      "street": "78 avenue des Sports",
+      "city": "Nantes",
+      "postalCode": "44000",
+      "country": "France"
+    },
+    "contactPerson": {
+      "firstName": "Lucas",
+      "lastName": "Bernard",
+      "email": "l.bernard@loisirs-aventure.fr",
+      "phone": "+33 2 40 56 78 90"
+    },
+    "email": "rh@centre-loisirs-aventure.fr",
+    "phone": "+33 2 40 56 78 00",
+    "website": "https://www.loisirs-aventure.fr",
+    "isActive": true,
+    "createdAt": "2024-04-12T09:30:00Z"
+  }
+]
